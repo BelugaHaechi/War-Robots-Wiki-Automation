@@ -20,4 +20,5 @@ __NOTE:__ The excel datasheet provided is for display purposes only. Do not dist
 (Work In Progress)
 
 > Don't forget to visit the War Robots Wiki at [warrobots.fandom.com](warrobots.fandom.com)!
-> [My user profile :D](warrobots.fandom.com/wiki/User:Bok_the_chicken)
+> 
+> [Check out my user profile :D](warrobots.fandom.com/wiki/User:Bok_the_chicken)
