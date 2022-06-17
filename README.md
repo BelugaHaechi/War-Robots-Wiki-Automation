@@ -19,4 +19,4 @@ Weapons simulator includes complex logic calculations :)
 
 > Don't forget to visit the War Robots Wiki at [warrobots.fandom.com]!
 
-[[warrobots.fandom.com/wiki/User:Bok_the_chicken]][My user profile :D]
+[warrobots.fandom.com/wiki/User:Bok_the_chicken][My user profile :D]
