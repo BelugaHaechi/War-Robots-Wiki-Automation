@@ -1,0 +1,2491 @@
+{{#switch:{{{1}}}
+<!-- Tier1 -->
+|Bolt= {{Robot stats
+|name = Bolt
+|Workshop = WorkshopNo
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = [[File:Dashinfobox.png|28px|link=]]<br>[[Abilities#Dash|Dash]]
+|hp1     =	52,600     ||speed1     =	55  ||New Column = 
+|hp2     =	55,800     ||speed2     =	55  ||New Column = 
+|hp3     =	59,200     ||speed3     =	55  ||New Column = 
+|hp4     =	62,700     ||speed4     =	55  ||New Column = 
+|hp5     =	66,500     ||speed5     =	55  ||New Column = 
+|hp6     =	70,500     ||speed6     =	55  ||New Column = 
+|hp7     =	74,700     ||speed7     =	55  ||New Column = 
+|hp8     =	79,200     ||speed8     =	55  ||New Column = 
+|hp9     =	84,000     ||speed9     =	55  ||New Column = 
+|hp10    =	89,000     ||speed10    =	55  ||New Column = 
+|hp11    =	94,300     ||speed11    =	55  ||New Column = 
+|hp12    =	100,000    ||speed12    =	55  ||New Column = 
+|mk2hp1  =	100,000    ||mk2speed1  =	55  ||New Column = 
+|mk2hp2  =	101,900    ||mk2speed2  =	55  ||New Column = 
+|mk2hp3  =	103,800    ||mk2speed3  =	55  ||New Column = 
+|mk2hp4  =	105,700    ||mk2speed4  =	55  ||New Column = 
+|mk2hp5  =	107,600    ||mk2speed5  =	55  ||New Column = 
+|mk2hp6  =	109,500    ||mk2speed6  =	55  ||New Column = 
+|mk2hp7  =	111,400    ||mk2speed7  =	55  ||New Column = 
+|mk2hp8  =	113,300    ||mk2speed8  =	55  ||New Column = 
+|mk2hp9  =	115,200    ||mk2speed9  =	55  ||New Column = 
+|mk2hp10 =	117,100    ||mk2speed10 =	55  ||New Column = 
+|mk2hp11 =	119,000    ||mk2speed11 =	55  ||New Column = 
+|mk2hp12 =	120,900    ||mk2speed12 =	55  ||New Column = 
+|mk3hp1  =  126,945    ||mk3speed1  =   55  ||New Column = 
+}} 
+|Cossack= {{Robot stats
+|name = Cossack
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = [[File:Jumpinfobox.png|28px|link=]]<br>[[Abilities#Jump|Jump]]
+|hp1     =	39,000   ||speed1     =	44
+|hp2     =	42,000   ||speed2     =	46
+|hp3     =	45,000   ||speed3     =	48
+|hp4     =	48,000   ||speed4     =	49
+|hp5     =	51,000   ||speed5     =	51
+|hp6     =	54,000   ||speed6     =	53
+|hp7     =	57,000   ||speed7     =	55
+|hp8     =	61,000   ||speed8     =	56
+|hp9     =	65,000   ||speed9     =	58
+|hp10    =	69,000   ||speed10    =	59
+|hp11    =	73,000   ||speed11    =	60
+|hp12    =	78,000   ||speed12    =	61
+|mk2hp1  =	78,000   ||mk2speed1  =	61
+|mk2hp2  =	79,500   ||mk2speed2  =	61
+|mk2hp3  =	81,000   ||mk2speed3  =	61
+|mk2hp4  =	82,500   ||mk2speed4  =	61
+|mk2hp5  =	84,000   ||mk2speed5  =	61
+|mk2hp6  =	85,500   ||mk2speed6  =	61
+|mk2hp7  =	87,000   ||mk2speed7  =	61
+|mk2hp8  =	88,500   ||mk2speed8  =	61
+|mk2hp9  =	90,000   ||mk2speed9  =	61
+|mk2hp10 =	91,500   ||mk2speed10 =	61
+|mk2hp11 =	93,000   ||mk2speed11 =	61
+|mk2hp12 =	94,500   ||mk2speed12 =	61
+|mk3hp1  =  99,225   ||mk3speed1  = 61
+}}
+|Destrier= {{Robot stats
+|name = Destrier
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = 
+|hp1     =	44,000     ||speed1     =	42
+|hp2     =	47,000     ||speed2     =	43
+|hp3     =	50,000     ||speed3     =	45
+|hp4     =	53,000     ||speed4     =	47
+|hp5     =	56,000     ||speed5     =	48
+|hp6     =	60,000     ||speed6     =	50
+|hp7     =	64,000     ||speed7     =	52
+|hp8     =	68,000     ||speed8     =	53
+|hp9     =	72,000     ||speed9     =	55
+|hp10    =	77,000     ||speed10    =	56
+|hp11    =	82,000     ||speed11    =	57
+|hp12    =	87,000     ||speed12    =	58
+|mk2hp1  =	87,000     ||mk2speed1  =	58
+|mk2hp2  =	88,600     ||mk2speed2  =	58
+|mk2hp3  =	90,200     ||mk2speed3  =	58
+|mk2hp4  =	91,800     ||mk2speed4  =	58
+|mk2hp5  =	93,400     ||mk2speed5  =	58
+|mk2hp6  =	95,000     ||mk2speed6  =	58
+|mk2hp7  =	96,600     ||mk2speed7  =	58
+|mk2hp8  =	98,200     ||mk2speed8  =	58
+|mk2hp9  =	99,800     ||mk2speed9  =	58
+|mk2hp10 =	101,400    ||mk2speed10 =	58
+|mk2hp11 =	103,000    ||mk2speed11 =	58
+|mk2hp12 =	104,600    ||mk2speed12 =	58
+|mk3hp1  =  109,830    ||mk3speed1  =   58
+}} 
+|Gareth= {{Robot stats
+|name = Gareth
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = [[File:Phalanxinfobox.png|32px|link=]]<br>[[Abilities#Phalanx Mode|Phalanx Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	40,000     ||speed1     =	49
+|hp2     =	43,000     ||speed2     =	51
+|hp3     =	46,000     ||speed3     =	52
+|hp4     =	49,000     ||speed4     =	54
+|hp5     =	52,000     ||speed5     =	56
+|hp6     =	55,000     ||speed6     =	58
+|hp7     =	59,000     ||speed7     =	60
+|hp8     =	63,000     ||speed8     =	62
+|hp9     =	67,000     ||speed9     =	64
+|hp10    =	71,000     ||speed10    =	65
+|hp11    =	75,000     ||speed11    =	66
+|hp12    =	80,000     ||speed12    =	67
+|mk2hp1  =	80,000     ||mk2speed1  =	67
+|mk2hp2  =	81,500     ||mk2speed2  =	67
+|mk2hp3  =	83,000     ||mk2speed3  =	67
+|mk2hp4  =	84,500     ||mk2speed4  =	67
+|mk2hp5  =	86,000     ||mk2speed5  =	67
+|mk2hp6  =	87,500     ||mk2speed6  =	67
+|mk2hp7  =	89,000     ||mk2speed7  =	67
+|mk2hp8  =	90,500     ||mk2speed8  =	67
+|mk2hp9  =	92,000     ||mk2speed9  =	67
+|mk2hp10 =	93,500     ||mk2speed10 =	67
+|mk2hp11 =	95,000     ||mk2speed11 =	67
+|mk2hp12 =	96,500     ||mk2speed12 =	67
+|mk3hp1  =  101,325    ||mk3speed1  =   67
+}}
+|Gepard= {{Robot stats
+|name = Gepard
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = None
+|hp1     =	48,400     ||speed1     =	58
+|hp2     =	52,800     ||speed2     =	58
+|hp3     =	57,200     ||speed3     =	58
+|hp4     =	61,600     ||speed4     =	58
+|hp5     =	66,000     ||speed5     =	58
+|hp6     =	71,500     ||speed6     =	58
+|hp7     =	77,000     ||speed7     =	58
+|hp8     =	83,600     ||speed8     =	58
+|hp9     =	90,200     ||speed9     =	58
+|hp10    =	97,900     ||speed10    =	58
+|hp11    =	105,600    ||speed11    =	58
+|hp12    =	114,400    ||speed12    =	58
+|mk2hp1  =	114,400    ||mk2speed1  =	58
+|mk2hp2  =	116,500    ||mk2speed2  =	58
+|mk2hp3  =	118,600    ||mk2speed3  =	58
+|mk2hp4  =	120,700    ||mk2speed4  =	58
+|mk2hp5  =	122,800    ||mk2speed5  =	58
+|mk2hp6  =	124,900    ||mk2speed6  =	58
+|mk2hp7  =	127,000    ||mk2speed7  =	58
+|mk2hp8  =	129,100    ||mk2speed8  =	58
+|mk2hp9  =	131,200    ||mk2speed9  =	58
+|mk2hp10 =	133,300    ||mk2speed10 =	58
+|mk2hp11 =	135,400    ||mk2speed11 =	58
+|mk2hp12 =	137,500    ||mk2speed12 =	58
+|mk3hp1  =  101,325    ||mk3speed1  =    58
+}}
+|Jesse= {{Robot stats
+|name = Jesse
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = [[File:QuickDrawinfobox.png|32px|link=]]<br>[[Abilities#Quick_Draw|Quick Draw]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	48,000     ||speed1     =	49
+|hp2     =	52,000     ||speed2     =	51
+|hp3     =	56,000     ||speed3     =	52
+|hp4     =	60,000     ||speed4     =	54
+|hp5     =	65,000     ||speed5     =	56
+|hp6     =	70,000     ||speed6     =	58
+|hp7     =	76,000     ||speed7     =	60
+|hp8     =	82,000     ||speed8     =	62
+|hp9     =	89,000     ||speed9     =	64
+|hp10    =	96,000     ||speed10    =	65
+|hp11    =	104,000    ||speed11    =	66
+|hp12    =	112,000    ||speed12    =	67
+|mk2hp1  =	112,000    ||mk2speed1  =	67
+|mk2hp2  =	114,100    ||mk2speed2  =	67
+|mk2hp3  =	116,200    ||mk2speed3  =	67
+|mk2hp4  =	118,300    ||mk2speed4  =	67
+|mk2hp5  =	120,400    ||mk2speed5  =	67
+|mk2hp6  =	122,500    ||mk2speed6  =	67
+|mk2hp7  =	124,600    ||mk2speed7  =	67
+|mk2hp8  =	126,700    ||mk2speed8  =	67
+|mk2hp9  =	128,800    ||mk2speed9  =	67
+|mk2hp10 =	130,900    ||mk2speed10 =	67
+|mk2hp11 =	133,000    ||mk2speed11 =	67
+|mk2hp12 =	135,100    ||mk2speed12 =	67
+|mk3hp1  =  141,855    ||mk3speed1  =    67
+}}
+|Patton={{Robot stats
+|name = GL. Patton
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = None
+|hp1     =	71,000     ||speed1      =	30
+|hp2     =	77,000     ||speed2      =	32
+|hp3     =	83,000     ||speed3      =	33
+|hp4     =	90,000     ||speed4      =	34
+|hp5     =	97,000     ||speed5      =	35
+|hp6     =	105,000    ||speed6      =	36
+|hp7     =	113,000    ||speed7      =	38
+|hp8     =	122,000    ||speed8      =	39
+|hp9     =	132,000    ||speed9      =	40
+|hp10    =	143,000    ||speed10     =	41
+|hp11    =	154,000    ||speed11     =	42
+|hp12    =	166,000    ||speed12     =	43
+|mk2hp1  =	166,000    ||mk2speed1   =	43
+|mk2hp2  =	169,000    ||mk2speed2   =	43
+|mk2hp3  =	172,000    ||mk2speed3   =	43
+|mk2hp4  =	175,000    ||mk2speed4   =	43
+|mk2hp5  =	178,000    ||mk2speed5   =	43
+|mk2hp6  =	181,000    ||mk2speed6   =	43
+|mk2hp7  =	184,000    ||mk2speed7   =	43
+|mk2hp8  =	187,000    ||mk2speed8   =	43
+|mk2hp9  =	190,000    ||mk2speed9   =	43
+|mk2hp10 =	193,000    ||mk2speed10  =	43
+|mk2hp11 =	196,000    ||mk2speed11  =	43
+|mk2hp12 =	199,000    ||mk2speed12  =	43
+|mk3hp1  =  208,950    ||mk3speed1   =   43
+}}
+|Rogatka={{Robot stats
+|name = Rogatka
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = [[File:Jumpinfobox.png|32px|link=]]<br>[[Abilities#Jump|Jump]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	76,000     ||speed1      =	46
+|hp2     =	81,000     ||speed2      =	47
+|hp3     =	86,000     ||speed3      =	49
+|hp4     =	92,000     ||speed4      =	51
+|hp5     =	98,000     ||speed5      =	53
+|hp6     =	104,000    ||speed6      =	55
+|hp7     =	111,000    ||speed7      =	56
+|hp8     =	118,000    ||speed8      =	58
+|hp9     =	125,000    ||speed9      =	60
+|hp10    =	133,000    ||speed10     =	61
+|hp11    =	141,000    ||speed11     =	62
+|hp12    =	150,000    ||speed12     =	63
+|mk2hp1  =	150,000    ||mk2speed1   =	63
+|mk2hp2  =	152,800    ||mk2speed2   =	63
+|mk2hp3  =	155,600    ||mk2speed3   =	63
+|mk2hp4  =	158,400    ||mk2speed4   =	63
+|mk2hp5  =	161,200    ||mk2speed5   =	63
+|mk2hp6  =	164,000    ||mk2speed6   =	63
+|mk2hp7  =	166,800    ||mk2speed7   =	63
+|mk2hp8  =	169,600    ||mk2speed8   =	63
+|mk2hp9  =	172,400    ||mk2speed9   =	63
+|mk2hp10 =	175,200    ||mk2speed10  =	63
+|mk2hp11 =	178,000    ||mk2speed11  =	63
+|mk2hp12 =	180,800    ||mk2speed12  =	63
+|mk3hp1  =  189,840    ||mk3speed1   =   63
+}}
+|Stalker={{Robot stats
+|name = Stalker
+|Workshop = WorkshopNo
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = [[File:Stealth.png|32px|link=]]<br>[[Abilities#Stealth|Stealth]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	46,000     ||speed1      =	66
+|hp2     =	49,000     ||speed2      =	66
+|hp3     =	52,000     ||speed3      =	66
+|hp4     =	55,000     ||speed4      =	66
+|hp5     =	59,000     ||speed5      =	66
+|hp6     =	63,000     ||speed6      =	66
+|hp7     =	67,000     ||speed7      =	66
+|hp8     =	71,000     ||speed8      =	66
+|hp9     =	75,000     ||speed9      =	66
+|hp10    =	80,000     ||speed10     =	66
+|hp11    =	85,000     ||speed11     =	66
+|hp12    =	90,000     ||speed12     =	66
+|mk2hp1  =	90,000     ||mk2speed1   =	66
+|mk2hp2  =	91,700     ||mk2speed2   =	66
+|mk2hp3  =	93,400     ||mk2speed3   =	66
+|mk2hp4  =	95,100     ||mk2speed4   =	66
+|mk2hp5  =	96,800     ||mk2speed5   =	66
+|mk2hp6  =	98,500     ||mk2speed6   =	66
+|mk2hp7  =	100,200    ||mk2speed7   =	66
+|mk2hp8  =	101,900    ||mk2speed8   =	66
+|mk2hp9  =	103,600    ||mk2speed9   =	66
+|mk2hp10 =	105,300    ||mk2speed10  =	66
+|mk2hp11 =	107,000    ||mk2speed11  =	66
+|mk2hp12 =	108,700    ||mk2speed12  =	66
+|mk3hp1  =  114,135    ||mk3speed1   =   66
+}}
+|Vityaz = {{Robot stats
+|name = Vityaz
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = None
+|hp1     =	93,500     ||speed1      =	32
+|hp2     =	99,000     ||speed2      =	33
+|hp3     =	105,600    ||speed3      =	34
+|hp4     =	112,200    ||speed4      =	36
+|hp5     =	119,900    ||speed5      =	37
+|hp6     =	127,600    ||speed6      =	38
+|hp7     =	135,300    ||speed7      =	39
+|hp8     =	144,100    ||speed8      =	41
+|hp9     =	152,900    ||speed9      =	42
+|hp10    =	162,800    ||speed10     =	43
+|hp11    =	172,700    ||speed11     =	44
+|hp12    =	183,700    ||speed12     =	45
+|mk2hp1  =	183,700    ||mk2speed1   =	45
+|mk2hp2  =	187,110    ||mk2speed2   =	45
+|mk2hp3  =	190,520    ||mk2speed3   =	45
+|mk2hp4  =	193,930    ||mk2speed4   =	45
+|mk2hp5  =	197,340    ||mk2speed5   =	45
+|mk2hp6  =	200,750    ||mk2speed6   =	45
+|mk2hp7  =	204,160    ||mk2speed7   =	45
+|mk2hp8  =	207,570    ||mk2speed8   =	45
+|mk2hp9  =	210,980    ||mk2speed9   =	45
+|mk2hp10 =	214,390    ||mk2speed10  =	45
+|mk2hp11 =	217,800    ||mk2speed11  =	45
+|mk2hp12 =	221,210    ||mk2speed12  =	45
+|mk3hp1  =  232,271    ||mk3speed1   =   45
+}}
+<!-- Tier2 -->
+|Ao Qin = {{Robot stats
+|name = Ao Qin
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:DragonStrikeinfobox.png|32px|link=]]<br>[[Abilities#Dragon_Strike|Dragon Strike]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	84,200     ||speed1      =	33
+|hp2     =	89,200     ||speed2      =	35
+|hp3     =	94,600     ||speed3      =	36
+|hp4     =	100,300    ||speed4      =	38
+|hp5     =	106,300    ||speed5      =	39
+|hp6     =	112,700    ||speed6      =	41
+|hp7     =	119,500    ||speed7      =	42
+|hp8     =	126,700    ||speed8      =	44
+|hp9     =	134,300    ||speed9      =	45
+|hp10    =	142,400    ||speed10     =	46
+|hp11    =	150,900    ||speed11     =	47
+|hp12    =	160,000    ||speed12     =	48
+|mk2hp1  =	160,000    ||mk2speed1   =	48
+|mk2hp2  =	163,000    ||mk2speed2   =	48
+|mk2hp3  =	166,000    ||mk2speed3   =	48
+|mk2hp4  =	169,000    ||mk2speed4   =	48
+|mk2hp5  =	172,000    ||mk2speed5   =	48
+|mk2hp6  =	175,000    ||mk2speed6   =	48
+|mk2hp7  =	178,000    ||mk2speed7   =	48
+|mk2hp8  =	181,000    ||mk2speed8   =	48
+|mk2hp9  =	184,000    ||mk2speed9   =	48
+|mk2hp10 =	187,000    ||mk2speed10  =	48
+|mk2hp11 =	190,000    ||mk2speed11  =	48
+|mk2hp12 =	193,000    ||mk2speed12  =	48
+|mk3hp1  =  202,650    ||mk3speed1   =   48
+}}
+|Butch = {{Robot stats
+|name = Butch
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:QuickDrawinfobox.png|32px|link=]]<br>[[Abilities#Quick_Draw|Quick Draw]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	86,900     ||speed1      =	33
+|hp2     =	93,500     ||speed2      =	34
+|hp3     =	101,200    ||speed3      =	36
+|hp4     =	108,900    ||speed4      =	37
+|hp5     =	117,700    ||speed5      =	38
+|hp6     =	127,600    ||speed6      =	39
+|hp7     =	137,500    ||speed7      =	40
+|hp8     =	148,500    ||speed8      =	41
+|hp9     =	160,600    ||speed9      =	43
+|hp10    =	173,800    ||speed10     =	44
+|hp11    =	188,100    ||speed11     =	45
+|hp12    =	203,500    ||speed12     =	46
+|mk2hp1  =	203,500    ||mk2speed1   =	46
+|mk2hp2  =	207,200    ||mk2speed2   =	46
+|mk2hp3  =	210,900    ||mk2speed3   =	46
+|mk2hp4  =	214,600    ||mk2speed4   =	46
+|mk2hp5  =	218,300    ||mk2speed5   =	46
+|mk2hp6  =	222,000    ||mk2speed6   =	46
+|mk2hp7  =	225,700    ||mk2speed7   =	46
+|mk2hp8  =	229,400    ||mk2speed8   =	46
+|mk2hp9  =	233,100    ||mk2speed9   =	46
+|mk2hp10 =	236,800    ||mk2speed10  =	46
+|mk2hp11 =	240,500    ||mk2speed11  =	46
+|mk2hp12 =	244,200    ||mk2speed12  =	46
+|mk3hp1  =  256,410    ||mk3speed1   =   46
+}}
+|Carnage = {{Robot stats
+|name = Carnage
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Rushinfobox.png|32px|link=]]<br>[[Abilities#Rush|Rush]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	62,000     ||speed1      =	30
+|hp2     =	66,000     ||speed2      =	32
+|hp3     =	70,000     ||speed3      =	33
+|hp4     =	74,000     ||speed4      =	34
+|hp5     =	79,000     ||speed5      =	35
+|hp6     =	84,000     ||speed6      =	36
+|hp7     =	89,000     ||speed7      =	38
+|hp8     =	95,000     ||speed8      =	39
+|hp9     =	101,000    ||speed9      =	40
+|hp10    =	107,000    ||speed10     =	41
+|hp11    =	114,000    ||speed11     =	42
+|hp12    =	121,000    ||speed12     =	43
+|mk2hp1  =	121,000    ||mk2speed1   =	43
+|mk2hp2  =	123,200    ||mk2speed2   =	43
+|mk2hp3  =	125,400    ||mk2speed3   =	43
+|mk2hp4  =	127,600    ||mk2speed4   =	43
+|mk2hp5  =	129,800    ||mk2speed5   =	43
+|mk2hp6  =	132,000    ||mk2speed6   =	43
+|mk2hp7  =	134,200    ||mk2speed7   =	43
+|mk2hp8  =	136,400    ||mk2speed8   =	43
+|mk2hp9  =	138,600    ||mk2speed9   =	43
+|mk2hp10 =	140,800    ||mk2speed10  =	43
+|mk2hp11 =	143,000    ||mk2speed11  =	43
+|mk2hp12 =	145,200    ||mk2speed12  =	43
+|mk3hp1  =  152,460    ||mk3speed1   =   43
+}}                                      
+|Doc = {{Robot stats
+|name = Doc
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:QuickDrawinfobox.png|32px|link=]]<br>[[Abilities#Quick_Draw|Quick Draw]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	73,000     ||speed1      =	39
+|hp2     =	79,000     ||speed2      =	40
+|hp3     =	85,000     ||speed3      =	42
+|hp4     =	92,000     ||speed4      =	43
+|hp5     =	99,000     ||speed5      =	45
+|hp6     =	107,000    ||speed6      =	46
+|hp7     =	116,000    ||speed7      =	48
+|hp8     =	125,000    ||speed8      =	49
+|hp9     =	135,000    ||speed9      =	51
+|hp10    =	146,000    ||speed10     =	52
+|hp11    =	158,000    ||speed11     =	53
+|hp12    =	171,000    ||speed12     =	54
+|mk2hp1  =	171,000    ||mk2speed1   =	54
+|mk2hp2  =	174,200    ||mk2speed2   =	54
+|mk2hp3  =	177,400    ||mk2speed3   =	54
+|mk2hp4  =	180,600    ||mk2speed4   =	54
+|mk2hp5  =	183,800    ||mk2speed5   =	54
+|mk2hp6  =	187,000    ||mk2speed6   =	54
+|mk2hp7  =	190,200    ||mk2speed7   =	54
+|mk2hp8  =	193,400    ||mk2speed8   =	54
+|mk2hp9  =	196,600    ||mk2speed9   =	54
+|mk2hp10 =	199,800    ||mk2speed10  =	54
+|mk2hp11 =	203,000    ||mk2speed11  =	54
+|mk2hp12 =	206,200    ||mk2speed12  =	54
+|mk3hp1  =  216,510    ||mk3speed1   =   54
+}}
+|Fujin = {{Robot stats
+|name = Fujin
+|Workshop = WorkshopNo
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:SentryModeinfobox.png|32px|link=]]<br>[[Abilities#Sentry Mode|Sentry Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	68,000     ||speed1      =	39
+|hp2     =	72,000     ||speed2      =	40
+|hp3     =	77,000     ||speed3      =	41
+|hp4     =	82,000     ||speed4      =	41
+|hp5     =	87,000     ||speed5      =	42
+|hp6     =	93,000     ||speed6      =	42
+|hp7     =	99,000     ||speed7      =	43
+|hp8     =	105,000    ||speed8      =	43
+|hp9     =	112,000    ||speed9      =	44
+|hp10    =	119,000    ||speed10     =	45
+|hp11    =	127,000    ||speed11     =	46
+|hp12    =	135,000    ||speed12     =	47
+|mk2hp1  =	135,000    ||mk2speed1   =	47
+|mk2hp2  =	137,500    ||mk2speed2   =	47
+|mk2hp3  =	140,000    ||mk2speed3   =	47
+|mk2hp4  =	142,500    ||mk2speed4   =	47
+|mk2hp5  =	145,000    ||mk2speed5   =	47
+|mk2hp6  =	147,500    ||mk2speed6   =	47
+|mk2hp7  =	150,000    ||mk2speed7   =	47
+|mk2hp8  =	152,500    ||mk2speed8   =	47
+|mk2hp9  =	155,000    ||mk2speed9   =	47
+|mk2hp10 =	157,500    ||mk2speed10  =	47
+|mk2hp11 =	160,000    ||mk2speed11  =	47
+|mk2hp12 =	162,500    ||mk2speed12  =	47
+|mk3hp1  =  170,625    ||mk3speed1   =   47
+}}
+|Galahad = {{Robot stats
+|name = Galahad
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Phalanxinfobox.png|32px|link=]]<br>[[Abilities#Phalanx Mode|Phalanx Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	70,840     ||speed1      =	38
+|hp2     =	75,370     ||speed2      =	40
+|hp3     =	80,190     ||speed3      =	41
+|hp4     =	85,310     ||speed4      =	43
+|hp5     =	90,760     ||speed5      =	44
+|hp6     =	96,560     ||speed6      =	46
+|hp7     =	102,730    ||speed7      =	47
+|hp8     =	109,290    ||speed8      =	49
+|hp9     =	116,270    ||speed9      =	50
+|hp10    =	123,700    ||speed10     =	51
+|hp11    =	131,600    ||speed11     =	52
+|hp12    =	140,000    ||speed12     =	53
+|mk2hp1  =	140,000    ||mk2speed1   =	53
+|mk2hp2  =	142,600    ||mk2speed2   =	53
+|mk2hp3  =	145,200    ||mk2speed3   =	53
+|mk2hp4  =	147,800    ||mk2speed4   =	53
+|mk2hp5  =	150,400    ||mk2speed5   =	53
+|mk2hp6  =	153,000    ||mk2speed6   =	53
+|mk2hp7  =	155,600    ||mk2speed7   =	53
+|mk2hp8  =	158,200    ||mk2speed8   =	53
+|mk2hp9  =	160,800    ||mk2speed9   =	53
+|mk2hp10 =	163,400    ||mk2speed10  =	53
+|mk2hp11 =	166,000    ||mk2speed11  =	53
+|mk2hp12 =	168,600    ||mk2speed12  =	53
+|mk3hp1  =  177,030    ||mk3speed1   =  53
+}}
+|Griffin = {{Robot stats
+|name = Griffin
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:Jumpinfobox.png|32px|link=]]<br>[[Abilities#Jump|Jump]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	0          ||speed1      =	 0
+|hp2     =	0          ||speed2      =	 0
+|hp3     =	0          ||speed3      =	 0
+|hp4     =	0          ||speed4      =	 0
+|hp5     =	0          ||speed5      =	 0
+|hp6     =	116,400    ||speed6      =	35
+|hp7     =	123,400    ||speed7      =	36
+|hp8     =	130,800    ||speed8      =	37
+|hp9     =	138,600    ||speed9      =	38
+|hp10    =	146,900    ||speed10     =	39
+|hp11    =	155,700    ||speed11     =	40
+|hp12    =	165,000    ||speed12     =	41
+|mk2hp1  =	165,000    ||mk2speed1   =	41
+|mk2hp2  =	168,000    ||mk2speed2   =	41
+|mk2hp3  =	171,000    ||mk2speed3   =	41
+|mk2hp4  =	174,000    ||mk2speed4   =	41
+|mk2hp5  =	177,000    ||mk2speed5   =	41
+|mk2hp6  =	180,000    ||mk2speed6   =	41
+|mk2hp7  =	183,000    ||mk2speed7   =	41
+|mk2hp8  =	186,000    ||mk2speed8   =	41
+|mk2hp9  =	189,000    ||mk2speed9   =	41
+|mk2hp10 =	192,000    ||mk2speed10  =	41
+|mk2hp11 =	195,000    ||mk2speed11  =	41
+|mk2hp12 =	198,000    ||mk2speed12  =	41
+|mk3hp1  =  207,900    ||mk3speed1   =  41
+}}
+|Leo = {{Robot stats
+|name = Leo
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = None
+|hp1     =	0          ||speed1      =	 0
+|hp2     =	0          ||speed2      =	 0
+|hp3     =	0          ||speed3      =	 0
+|hp4     =	0          ||speed4      =	 0
+|hp5     =	0          ||speed5      =	 0
+|hp6     =	168,310    ||speed6      =	32
+|hp7     =	179,060    ||speed7      =	33
+|hp8     =	190,490    ||speed8      =	34
+|hp9     =	202,650    ||speed9      =	35
+|hp10    =	215,590    ||speed10     =	36
+|hp11    =	229,360    ||speed11     =	37
+|hp12    =	244,000    ||speed12     =	38
+|mk2hp1  =	244,000    ||mk2speed1   =	38
+|mk2hp2  =	248,500    ||mk2speed2   =	38
+|mk2hp3  =	253,000    ||mk2speed3   =	38
+|mk2hp4  =	257,500    ||mk2speed4   =	38
+|mk2hp5  =	262,000    ||mk2speed5   =	38
+|mk2hp6  =	266,500    ||mk2speed6   =	38
+|mk2hp7  =	271,000    ||mk2speed7   =	38
+|mk2hp8  =	275,500    ||mk2speed8   =	38
+|mk2hp9  =	280,000    ||mk2speed9   =	38
+|mk2hp10 =	284,500    ||mk2speed10  =	38
+|mk2hp11 =	289,000    ||mk2speed11  =	38
+|mk2hp12 =	293,500    ||mk2speed12  =	38
+|mk3hp1  =  308,175    ||mk3speed1   =  38
+}}
+|Natasha = {{Robot stats
+|name = Natasha
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = None
+|hp1     =	0          ||speed1      =	 0
+|hp2     =	0          ||speed2      =	 0
+|hp3     =	0          ||speed3      =	 0
+|hp4     =	0          ||speed4      =	 0
+|hp5     =	0          ||speed5      =	 0
+|hp6     =	126,000    ||speed6      =	35
+|hp7     =	136,500    ||speed7      =	36
+|hp8     =	147,000    ||speed8      =	37
+|hp9     =	158,600    ||speed9      =	38
+|hp10    =	171,200    ||speed10     =	39
+|hp11    =	184,800    ||speed11     =	40
+|hp12    =	199,500    ||speed12     =	41
+|mk2hp1  =	199,500    ||mk2speed1   =	41
+|mk2hp2  =	203,200    ||mk2speed2   =	41
+|mk2hp3  =	206,900    ||mk2speed3   =	41
+|mk2hp4  =	210,600    ||mk2speed4   =	41
+|mk2hp5  =	214,300    ||mk2speed5   =	41
+|mk2hp6  =	218,000    ||mk2speed6   =	41
+|mk2hp7  =	221,700    ||mk2speed7   =	41
+|mk2hp8  =	225,400    ||mk2speed8   =	41
+|mk2hp9  =	229,100    ||mk2speed9   =	41
+|mk2hp10 =	232,800    ||mk2speed10  =	41
+|mk2hp11 =	236,500    ||mk2speed11  =	41
+|mk2hp12 =	240,200    ||mk2speed12  =	41
+|mk3hp1  =  252,210    ||mk3speed1   =  41
+}}
+|Raijin = {{Robot stats
+|name = Raijin
+|Workshop = WorkshopNo
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:BastionModeinfobox.png|32px|link=]]<br>[[Abilities#Bastion Mode|Bastion Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	127,000    ||speed1      =	31
+|hp2     =	135,000    ||speed2      =	32
+|hp3     =	144,000    ||speed3      =	33
+|hp4     =	153,000    ||speed4      =	33
+|hp5     =	163,000    ||speed5      =	34
+|hp6     =	173,000    ||speed6      =	34
+|hp7     =	184,000    ||speed7      =	35
+|hp8     =	196,000    ||speed8      =	35
+|hp9     =	208,000    ||speed9      =	36
+|hp10    =	221,000    ||speed10     =	37
+|hp11    =	235,000    ||speed11     =	38
+|hp12    =	250,000    ||speed12     =	39
+|mk2hp1  =	250,000    ||mk2speed1   =	39
+|mk2hp2  =	254,600    ||mk2speed2   =	39
+|mk2hp3  =	259,200    ||mk2speed3   =	39
+|mk2hp4  =	263,800    ||mk2speed4   =	39
+|mk2hp5  =	268,400    ||mk2speed5   =	39
+|mk2hp6  =	273,000    ||mk2speed6   =	39
+|mk2hp7  =	277,600    ||mk2speed7   =	39
+|mk2hp8  =	282,200    ||mk2speed8   =	39
+|mk2hp9  =	286,800    ||mk2speed9   =	39
+|mk2hp10 =	291,400    ||mk2speed10  =	39
+|mk2hp11 =	296,000    ||mk2speed11  =	39
+|mk2hp12 =	300,600    ||mk2speed12  =	39
+|mk3hp1  =  315,630    ||mk3speed1   =  39
+}}
+|Rhino = {{Robot stats
+|name = Rhino
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:BastionModeinfobox.png|32px|link=]]<br>[[Abilities#Bastion Mode|Bastion Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	95,000     ||speed1      =	28
+|hp2     =	101,000    ||speed2      =	29
+|hp3     =	107,000    ||speed3      =	30
+|hp4     =	114,000    ||speed4      =	31
+|hp5     =	121,000    ||speed5      =	31
+|hp6     =	129,000    ||speed6      =	32
+|hp7     =	137,000    ||speed7      =	33
+|hp8     =	146,000    ||speed8      =	34
+|hp9     =	155,000    ||speed9      =	35
+|hp10    =	165,000    ||speed10     =	36
+|hp11    =	176,000    ||speed11     =	37
+|hp12    =	187,000    ||speed12     =	38
+|mk2hp1  =	187,000    ||mk2speed1   =	38
+|mk2hp2  =	190,400    ||mk2speed2   =	38
+|mk2hp3  =	193,800    ||mk2speed3   =	38
+|mk2hp4  =	197,200    ||mk2speed4   =	38
+|mk2hp5  =	200,600    ||mk2speed5   =	38
+|mk2hp6  =	204,000    ||mk2speed6   =	38
+|mk2hp7  =	207,400    ||mk2speed7   =	38
+|mk2hp8  =	210,800    ||mk2speed8   =	38
+|mk2hp9  =	214,200    ||mk2speed9   =	38
+|mk2hp10 =	217,600    ||mk2speed10  =	38
+|mk2hp11 =	221,000    ||mk2speed11  =	38
+|mk2hp12 =	224,400    ||mk2speed12  =	38
+|mk3hp1  =  235,620    ||mk3speed1   =  38
+}}
+|Hover = {{Robot stats
+|name = Hover
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Glideinfobox.png|32px|link=]]<br>[[Abilities#Glide|Glide]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	106.700    ||speed1      =	50
+|hp2     =	113.300    ||speed2      =	52
+|hp3     =	121.000    ||speed3      =	53
+|hp4     =	128.700    ||speed4      =	54
+|hp5     =	136.400    ||speed5      =	55
+|hp6     =	145.200    ||speed6      =	56
+|hp7     =	154.000    ||speed7      =	58
+|hp8     =	163.900    ||speed8      =	59
+|hp9     =	173.800    ||speed9      =	60
+|hp10    =	184.800    ||speed10     =	61
+|hp11    =	196.900    ||speed11     =	62
+|hp12    =	209.000    ||speed12     =	63
+|mk2hp1  =	209.000    ||mk2speed1   =	63
+|mk2hp2  =	212.850    ||mk2speed2   =	63
+|mk2hp3  =	216.700    ||mk2speed3   =	63
+|mk2hp4  =	220.550    ||mk2speed4   =	63
+|mk2hp5  =	224.400    ||mk2speed5   =	63
+|mk2hp6  =	228.250    ||mk2speed6   =	63
+|mk2hp7  =	232.100    ||mk2speed7   =	63
+|mk2hp8  =	235.950    ||mk2speed8   =	63
+|mk2hp9  =	239.800    ||mk2speed9   =	63
+|mk2hp10 =	243.650    ||mk2speed10  =	63
+|mk2hp11 =	247.500    ||mk2speed11  =	63
+|mk2hp12 =	251.350    ||mk2speed12  =	63
+|mk3hp1  =  263.918    ||mk3speed1   =  63
+}}
+|Kumiho = {{Robot stats
+|name = Kumiho
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Dashinfobox.png|32px|link=]]<br>[[Abilities#Dash|Dash]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	83.600     ||speed1      =	46
+|hp2     =	89.100     ||speed2      =	47
+|hp3     =	94.600     ||speed3      =	49
+|hp4     =	101.200    ||speed4      =	51
+|hp5     =	107.800    ||speed5      =	53
+|hp6     =	114.400    ||speed6      =	55
+|hp7     =	122.100    ||speed7      =	56
+|hp8     =	129.800    ||speed8      =	58
+|hp9     =	137.500    ||speed9      =	60
+|hp10    =	146.300    ||speed10     =	61
+|hp11    =	155.100    ||speed11     =	62
+|hp12    =	165.000    ||speed12     =	63
+|mk2hp1  =	165.000    ||mk2speed1   =	63
+|mk2hp2  =	168.100    ||mk2speed2   =	63
+|mk2hp3  =	171.200    ||mk2speed3   =	63
+|mk2hp4  =	174.200    ||mk2speed4   =	63
+|mk2hp5  =	177.300    ||mk2speed5   =	63
+|mk2hp6  =	180.400    ||mk2speed6   =	63
+|mk2hp7  =	183.500    ||mk2speed7   =	63
+|mk2hp8  =	186.600    ||mk2speed8   =	63
+|mk2hp9  =	189.600    ||mk2speed9   =	63
+|mk2hp10 =	192.700    ||mk2speed10  =	63
+|mk2hp11 =	195.800    ||mk2speed11  =	63
+|mk2hp12 =	198.900    ||mk2speed12  =	63
+|mk3hp1  =  208.845    ||mk3speed1   =  63
+}}
+|Lancelot = {{Robot stats
+|name = Lancelot
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 2
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Rushinfobox.png|32px|link=]]<br>[[Abilities#Rush|Rush]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	92.000     ||speed1      =	25
+|hp2     =	98.000     ||speed2      =	26
+|hp3     =	104.000    ||speed3      =	27
+|hp4     =	111.000    ||speed4      =	28
+|hp5     =	118.000    ||speed5      =	29
+|hp6     =	125.000    ||speed6      =	30
+|hp7     =	133.000    ||speed7      =	31
+|hp8     =	142.000    ||speed8      =	32
+|hp9     =	151.000    ||speed9      =	33
+|hp10    =	161.000    ||speed10     =	34
+|hp11    =	171.000    ||speed11     =	35
+|hp12    =	182.000    ||speed12     =	36
+|mk2hp1  =	182.000    ||mk2speed1   =	36
+|mk2hp2  =	185.400    ||mk2speed2   =	36
+|mk2hp3  =	188.800    ||mk2speed3   =	36
+|mk2hp4  =	192.200    ||mk2speed4   =	36
+|mk2hp5  =	195.600    ||mk2speed5   =	36
+|mk2hp6  =	199.000    ||mk2speed6   =	36
+|mk2hp7  =	202.400    ||mk2speed7   =	36
+|mk2hp8  =	205.800    ||mk2speed8   =	36
+|mk2hp9  =	209.200    ||mk2speed9   =	36
+|mk2hp10 =	212.600    ||mk2speed10  =	36
+|mk2hp11 =	216.000    ||mk2speed11  =	36
+|mk2hp12 =	219.400    ||mk2speed12  =	36
+|mk3hp1  =  230.370    ||mk3speed1   =  36
+}}
+<!-- Tier3 -->
+|Ao Guang = {{Robot stats
+|name = Ao Guang
+|Workshop = WorkshopYes
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:DragonFangsinfobox.png|32px|link=]]<br>[[Abilities#Dragon_Fangs|Dragon Fangs]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	63.200     ||speed1      =	33
+|hp2     =	67.000     ||speed2      =	35
+|hp3     =	71.000     ||speed3      =	36
+|hp4     =	75.300     ||speed4      =	38
+|hp5     =	79.800     ||speed5      =	39
+|hp6     =	84.600     ||speed6      =	41
+|hp7     =	89.700     ||speed7      =	42
+|hp8     =	95.100     ||speed8      =	44
+|hp9     =	100.800    ||speed9      =	45
+|hp10    =	106.800    ||speed10     =	46
+|hp11    =	113.200    ||speed11     =	47
+|hp12    =	120.000    ||speed12     =	48
+|mk2hp1  =	120.000    ||mk2speed1   =	48
+|mk2hp2  =	122.200    ||mk2speed2   =	48
+|mk2hp3  =	124.400    ||mk2speed3   =	48
+|mk2hp4  =	126.600    ||mk2speed4   =	48
+|mk2hp5  =	128.800    ||mk2speed5   =	48
+|mk2hp6  =	131.000    ||mk2speed6   =	48
+|mk2hp7  =	133.200    ||mk2speed7   =	48
+|mk2hp8  =	135.400    ||mk2speed8   =	48
+|mk2hp9  =	137.600    ||mk2speed9   =	48
+|mk2hp10 =	139.800    ||mk2speed10  =	48
+|mk2hp11 =	142.000    ||mk2speed11  =	48
+|mk2hp12 =	144.200    ||mk2speed12  =	48
+|mk3hp1  =  151.410    ||mk3speed1   =  48
+}}
+|Bulgasari = {{Robot stats
+|name = Bulgasari
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Dashinfobox.png|32px|link=]]<br>[[Abilities#Dash|Dash]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	97.000     ||speed1      =	35
+|hp2     =	103.000    ||speed2      =	37
+|hp3     =	110.000    ||speed3      =	38
+|hp4     =	117.000    ||speed4      =	39
+|hp5     =	124.000    ||speed5      =	40
+|hp6     =	132.000    ||speed6      =	42
+|hp7     =	140.000    ||speed7      =	43
+|hp8     =	149.000    ||speed8      =	45
+|hp9     =	158.000    ||speed9      =	45
+|hp10    =	168.000    ||speed10     =	46
+|hp11    =	179.000    ||speed11     =	47
+|hp12    =	190.000    ||speed12     =	48
+|mk2hp1  =	190.000    ||mk2speed1   =	48
+|mk2hp2  =	193.500    ||mk2speed2   =	48
+|mk2hp3  =	197.000    ||mk2speed3   =	48
+|mk2hp4  =	200.500    ||mk2speed4   =	48
+|mk2hp5  =	204.000    ||mk2speed5   =	48
+|mk2hp6  =	207.500    ||mk2speed6   =	48
+|mk2hp7  =	211.000    ||mk2speed7   =	48
+|mk2hp8  =	214.500    ||mk2speed8   =	48
+|mk2hp9  =	218.000    ||mk2speed9   =	48
+|mk2hp10 =	221.500    ||mk2speed10  =	48
+|mk2hp11 =	225.000    ||mk2speed11  =	48
+|mk2hp12 =	228.500    ||mk2speed12  =	48
+|mk3hp1  =  239.925    ||mk3speed1   =  48
+}}
+|Cerberus = {{Robot stats
+|name = Cerberus
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Blackoutinfobox.png|32px|link=]]<br>[[Abilities#Blackout|Blackout]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	63.200     ||speed1      =	46
+|hp2     =	67.000     ||speed2      =	48
+|hp3     =	71.000     ||speed3      =	49
+|hp4     =	75.300     ||speed4      =	51
+|hp5     =	79.800     ||speed5      =	52
+|hp6     =	84.600     ||speed6      =	54
+|hp7     =	89.700     ||speed7      =	55
+|hp8     =	95.100     ||speed8      =	57
+|hp9     =	100.800    ||speed9      =	58
+|hp10    =	106.800    ||speed10     =	59
+|hp11    =	113.200    ||speed11     =	60
+|hp12    =	120.000    ||speed12     =	61
+|mk2hp1  =	120.000    ||mk2speed1   =	61
+|mk2hp2  =	122.000    ||mk2speed2   =	61
+|mk2hp3  =	124.000    ||mk2speed3   =	61
+|mk2hp4  =	126.000    ||mk2speed4   =	61
+|mk2hp5  =	128.000    ||mk2speed5   =	61
+|mk2hp6  =	130.000    ||mk2speed6   =	61
+|mk2hp7  =	132.000    ||mk2speed7   =	61
+|mk2hp8  =	134.000    ||mk2speed8   =	61
+|mk2hp9  =	136.000    ||mk2speed9   =	61
+|mk2hp10 =	138.000    ||mk2speed10  =	61
+|mk2hp11 =	140.000    ||mk2speed11  =	61
+|mk2hp12 =	144.000    ||mk2speed12  =	61
+|mk3hp1  =  151.200    ||mk3speed1   =  61
+}}
+|Falcon = {{Robot stats
+|name = Falcon
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:FangsOutinfobox.png|32px|link=]]<br>[[Abilities#Fangs_Out|Fangs Out]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	96.000     ||speed1      =	40
+|hp2     =	102.000    ||speed2      =	42
+|hp3     =	108.000    ||speed3      =	43
+|hp4     =	115.000    ||speed4      =	44
+|hp5     =	122.000    ||speed5      =	45
+|hp6     =	130.000    ||speed6      =	46
+|hp7     =	138.000    ||speed7      =	48
+|hp8     =	147.000    ||speed8      =	49
+|hp9     =	156.000    ||speed9      =	50
+|hp10    =	166.000    ||speed10     =	51
+|hp11    =	177.000    ||speed11     =	52
+|hp12    =	188.000    ||speed12     =	53
+|mk2hp1  =	188.000    ||mk2speed1   =	53
+|mk2hp2  =	191.500    ||mk2speed2   =	53
+|mk2hp3  =	195.000    ||mk2speed3   =	53
+|mk2hp4  =	198.500    ||mk2speed4   =	53
+|mk2hp5  =	202.000    ||mk2speed5   =	53
+|mk2hp6  =	205.500    ||mk2speed6   =	53
+|mk2hp7  =	209.000    ||mk2speed7   =	53
+|mk2hp8  =	212.500    ||mk2speed8   =	53
+|mk2hp9  =	216.000    ||mk2speed9   =	53
+|mk2hp10 =	219.500    ||mk2speed10  =	53
+|mk2hp11 =	223.000    ||mk2speed11  =	53
+|mk2hp12 =	226.500    ||mk2speed12  =	53
+|mk3hp1  =  237.825    ||mk3speed1   =  53
+}}
+|Fury = {{Robot stats
+|name = Fury
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:|32px|link=]]<br>[[Abilities#|]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	           ||speed1      =	
+|hp2     =	           ||speed2      =	
+|hp3     =	           ||speed3      =	
+|hp4     =	           ||speed4      =	
+|hp5     =	           ||speed5      =	
+|hp6     =	120,000    ||speed6      =	35
+|hp7     =	130,000    ||speed7      =	36
+|hp8     =	140,000    ||speed8      =	37
+|hp9     =	151,000    ||speed9      =	38
+|hp10    =	163,000    ||speed10     =	39
+|hp11    =	176,000    ||speed11     =	40
+|hp12    =	190,000    ||speed12     =	41
+|mk2hp1  =	190,000    ||mk2speed1   =	41
+|mk2hp2  =	193,500    ||mk2speed2   =	41
+|mk2hp3  =	197,000    ||mk2speed3   =	41
+|mk2hp4  =	200,500    ||mk2speed4   =	41
+|mk2hp5  =	204,000    ||mk2speed5   =	41
+|mk2hp6  =	207,500    ||mk2speed6   =	41
+|mk2hp7  =	211,000    ||mk2speed7   =	41
+|mk2hp8  =	214,500    ||mk2speed8   =	41
+|mk2hp9  =	218,000    ||mk2speed9   =	41
+|mk2hp10 =	221,500    ||mk2speed10  =	41
+|mk2hp11 =	225,000    ||mk2speed11  =	41
+|mk2hp12 =	228,500    ||mk2speed12  =	41
+|mk3hp1  =  239,925    ||mk3speed1   =  41
+}}
+|Haechi = {{Robot stats
+|name = Haechi
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Dashinfobox.png|32px|link=]]<br>[[Abilities#Dash|Dash]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	71,000     ||speed1      =	35
+|hp2     =	76,000     ||speed2      =	36
+|hp3     =	81,000     ||speed3      =	37
+|hp4     =	86,000     ||speed4      =	39
+|hp5     =	92,000     ||speed5      =	40
+|hp6     =	98,000     ||speed6      =	41
+|hp7     =	104,000    ||speed7      =	42
+|hp8     =	111,000    ||speed8      =	44
+|hp9     =	118,000    ||speed9      =	45
+|hp10    =	126,000    ||speed10     =	46
+|hp11    =	134,000    ||speed11     =	47
+|hp12    =	143,000    ||speed12     =	48
+|mk2hp1  =	143,000    ||mk2speed1   =	48
+|mk2hp2  =	145,600    ||mk2speed2   =	48
+|mk2hp3  =	148,200    ||mk2speed3   =	48
+|mk2hp4  =	150,800    ||mk2speed4   =	48
+|mk2hp5  =	153,400    ||mk2speed5   =	48
+|mk2hp6  =	156,000    ||mk2speed6   =	48
+|mk2hp7  =	158,600    ||mk2speed7   =	48
+|mk2hp8  =	161,200    ||mk2speed8   =	48
+|mk2hp9  =	163,800    ||mk2speed9   =	48
+|mk2hp10 =	166,400    ||mk2speed10  =	48
+|mk2hp11 =	169,000    ||mk2speed11  =	48
+|mk2hp12 =	171,600    ||mk2speed12  =	48
+|mk3hp1  =  180,180    ||mk3speed1   =  48
+}}
+|Hellburner = {{Robot stats
+|name = Hellburner
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Overloadinfobox.png|32px|link=]]<br>[[Abilities#Overload|Overload]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	91,000     ||speed1      =	46
+|hp2     =	97,000     ||speed2      =	47
+|hp3     =	103,000    ||speed3      =	49
+|hp4     =	110,000    ||speed4      =	51
+|hp5     =	117,000    ||speed5      =	53
+|hp6     =	124,000    ||speed6      =	55
+|hp7     =	132,000    ||speed7      =	56
+|hp8     =	140,000    ||speed8      =	58
+|hp9     =	149,000    ||speed9      =	60
+|hp10    =	159,000    ||speed10     =	61
+|hp11    =	169,000    ||speed11     =	62
+|hp12    =	180,000    ||speed12     =	63
+|mk2hp1  =	180,000    ||mk2speed1   =	63
+|mk2hp2  =	183,300    ||mk2speed2   =	63
+|mk2hp3  =	186,600    ||mk2speed3   =	63
+|mk2hp4  =	189,900    ||mk2speed4   =	63
+|mk2hp5  =	193,200    ||mk2speed5   =	63
+|mk2hp6  =	196,500    ||mk2speed6   =	63
+|mk2hp7  =	199,800    ||mk2speed7   =	63
+|mk2hp8  =	203,100    ||mk2speed8   =	63
+|mk2hp9  =	206,400    ||mk2speed9   =	63
+|mk2hp10 =	209,700    ||mk2speed10  =	63
+|mk2hp11 =	213,000    ||mk2speed11  =	63
+|mk2hp12 =	216,300    ||mk2speed12  =	63
+|mk3hp1  =  227,115    ||mk3speed1   =  63
+}}
+|Inquisitor = {{Robot stats
+|name = Inquisitor
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Descendinfobox.png|32px|link=]]<br>[[Abilities#Descend|Descend]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	84,000     ||speed1      =	33
+|hp2     =	89,000     ||speed2      =	35
+|hp3     =	95,000     ||speed3      =	36
+|hp4     =	101,000    ||speed4      =	37
+|hp5     =	107,000    ||speed5      =	38
+|hp6     =	114,000    ||speed6      =	39
+|hp7     =	121,000    ||speed7      =	41
+|hp8     =	129,000    ||speed8      =	42
+|hp9     =	137,000    ||speed9      =	43
+|hp10    =	146,000    ||speed10     =	44
+|hp11    =	155,000    ||speed11     =	45
+|hp12    =	165,000    ||speed12     =	46
+|mk2hp1  =	165,000    ||mk2speed1   =	46
+|mk2hp2  =	168,000    ||mk2speed2   =	46
+|mk2hp3  =	171,000    ||mk2speed3   =	46
+|mk2hp4  =	174,000    ||mk2speed4   =	46
+|mk2hp5  =	177,000    ||mk2speed5   =	46
+|mk2hp6  =	180,000    ||mk2speed6   =	46
+|mk2hp7  =	183,000    ||mk2speed7   =	46
+|mk2hp8  =	186,000    ||mk2speed8   =	46
+|mk2hp9  =	189,000    ||mk2speed9   =	46
+|mk2hp10 =	192,000    ||mk2speed10  =	46
+|mk2hp11 =	195,000    ||mk2speed11  =	46
+|mk2hp12 =	198,000    ||mk2speed12  =	46
+|mk3hp1  =  207,900    ||mk3speed1   =  46
+}}
+|Mender = {{Robot stats
+|name = Mender
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Supportinfobox.png|32px|link=]]<br>[[Abilities#Support|Support]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	79,000     ||speed1      =	43
+|hp2     =	84,000     ||speed2      =	44
+|hp3     =	89,000     ||speed3      =	45
+|hp4     =	95,000     ||speed4      =	47
+|hp5     =	101,000    ||speed5      =	48
+|hp6     =	107,000    ||speed6      =	49
+|hp7     =	114,000    ||speed7      =	50
+|hp8     =	121,000    ||speed8      =	52
+|hp9     =	129,000    ||speed9      =	53
+|hp10    =	137,000    ||speed10     =	54
+|hp11    =	146,000    ||speed11     =	55
+|hp12    =	155,000    ||speed12     =	56
+|mk2hp1  =	155,000    ||mk2speed1   =	56
+|mk2hp2  =	157,900    ||mk2speed2   =	56
+|mk2hp3  =	160,800    ||mk2speed3   =	56
+|mk2hp4  =	163,700    ||mk2speed4   =	56
+|mk2hp5  =	166,600    ||mk2speed5   =	56
+|mk2hp6  =	169,500    ||mk2speed6   =	56
+|mk2hp7  =	172,400    ||mk2speed7   =	56
+|mk2hp8  =	175,300    ||mk2speed8   =	56
+|mk2hp9  =	178,200    ||mk2speed9   =	56
+|mk2hp10 =	181,100    ||mk2speed10  =	56
+|mk2hp11 =	184,000    ||mk2speed11  =	56
+|mk2hp12 =	186,900    ||mk2speed12  =	56
+|mk3hp1  =  196,245    ||mk3speed1   =  56
+}}
+|Mercury = {{Robot stats
+|name = Mercury
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Helldiveinfobox.png|32px|link=]]<br>[[Abilities#Helldive|Helldive]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	76,000     ||speed1      =	38
+|hp2     =	81,000     ||speed2      =	40
+|hp3     =	86,000     ||speed3      =	41
+|hp4     =	92,000     ||speed4      =	42
+|hp5     =	98,000     ||speed5      =	43
+|hp6     =	104,000    ||speed6      =	44
+|hp7     =	111,000    ||speed7      =	46
+|hp8     =	118,000    ||speed8      =	47
+|hp9     =	125,000    ||speed9      =	48
+|hp10    =	133,000    ||speed10     =	49
+|hp11    =	141,000    ||speed11     =	50
+|hp12    =	150,000    ||speed12     =	51
+|mk2hp1  =	150,000    ||mk2speed1   =	51
+|mk2hp2  =	152,800    ||mk2speed2   =	51
+|mk2hp3  =	155,600    ||mk2speed3   =	51
+|mk2hp4  =	158,400    ||mk2speed4   =	51
+|mk2hp5  =	161,200    ||mk2speed5   =	51
+|mk2hp6  =	164,000    ||mk2speed6   =	51
+|mk2hp7  =	166,800    ||mk2speed7   =	51
+|mk2hp8  =	169,600    ||mk2speed8   =	51
+|mk2hp9  =	172,400    ||mk2speed9   =	51
+|mk2hp10 =	175,200    ||mk2speed10  =	51
+|mk2hp11 =	178,000    ||mk2speed11  =	51
+|mk2hp12 =	180,800    ||mk2speed12  =	51
+|mk3hp1  =  189,840    ||mk3speed1   =  51
+}}
+|Pursuer = {{Robot stats
+|name = Pursuer
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Huntinfobox.png|32px|link=]]<br>[[Abilities#Hunt|Hunt]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	68,000     ||speed1      =	50
+|hp2     =	72,000     ||speed2      =	52
+|hp3     =	77,000     ||speed3      =	54
+|hp4     =	82,000     ||speed4      =	56
+|hp5     =	87,000     ||speed5      =	58
+|hp6     =	93,000     ||speed6      =	60
+|hp7     =	99,000     ||speed7      =	62
+|hp8     =	105,000    ||speed8      =	64
+|hp9     =	112,000    ||speed9      =	66
+|hp10    =	119,000    ||speed10     =	67
+|hp11    =	127,000    ||speed11     =	68
+|hp12    =	135,000    ||speed12     =	69
+|mk2hp1  =	135,000    ||mk2speed1   =	69
+|mk2hp2  =	137,500    ||mk2speed2   =	69
+|mk2hp3  =	140,000    ||mk2speed3   =	69
+|mk2hp4  =	142,500    ||mk2speed4   =	69
+|mk2hp5  =	145,000    ||mk2speed5   =	69
+|mk2hp6  =	147,500    ||mk2speed6   =	69
+|mk2hp7  =	150,000    ||mk2speed7   =	69
+|mk2hp8  =	152,500    ||mk2speed8   =	69
+|mk2hp9  =	155,000    ||mk2speed9   =	69
+|mk2hp10 =	157,500    ||mk2speed10  =	69
+|mk2hp11 =	160,000    ||mk2speed11  =	69
+|mk2hp12 =	162,500    ||mk2speed12  =	69
+|mk3hp1  =  170,625    ||mk3speed1   =  69
+}}
+|Raven = {{Robot stats
+|name = Raven
+|Workshop = WorkshopYes
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Jumpinfobox.png|32px|link=]]<br>[[Abilities#Double_Jump|Double Jump]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	93,700     ||speed1      =	40
+|hp2     =	99,300     ||speed2      =	41
+|hp3     =	105,300    ||speed3      =	43
+|hp4     =	111,600    ||speed4      =	44
+|hp5     =	118,300    ||speed5      =	45
+|hp6     =	125,400    ||speed6      =	46
+|hp7     =	132,900    ||speed7      =	48
+|hp8     =	140,900    ||speed8      =	49
+|hp9     =	149,400    ||speed9      =	50
+|hp10    =	158,400    ||speed10     =	51
+|hp11    =	167,900    ||speed11     =	52
+|hp12    =	178,000    ||speed12     =	53
+|mk2hp1  =	178,000    ||mk2speed1   =	53
+|mk2hp2  =	181,300    ||mk2speed2   =	53
+|mk2hp3  =	184,600    ||mk2speed3   =	53
+|mk2hp4  =	187,900    ||mk2speed4   =	53
+|mk2hp5  =	191,200    ||mk2speed5   =	53
+|mk2hp6  =	194,500    ||mk2speed6   =	53
+|mk2hp7  =	197,800    ||mk2speed7   =	53
+|mk2hp8  =	201,100    ||mk2speed8   =	53
+|mk2hp9  =	204,400    ||mk2speed9   =	53
+|mk2hp10 =	207,700    ||mk2speed10  =	53
+|mk2hp11 =	211,000    ||mk2speed11  =	53
+|mk2hp12 =	214,300    ||mk2speed12  =	53
+|mk3hp1  =  225,015    ||mk3speed1   =  53
+}}
+|Rayker = {{Robot stats
+|name = Rayker
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Glanceinfobox.png|32px|link=]]<br>[[Abilities#Glance|Glance]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	76,000     ||speed1      =	48
+|hp2     =	81,000     ||speed2      =	50
+|hp3     =	86,000     ||speed3      =	51
+|hp4     =	92,000     ||speed4      =	53
+|hp5     =	98,000     ||speed5      =	54
+|hp6     =	104,000    ||speed6      =	56
+|hp7     =	111,000    ||speed7      =	57
+|hp8     =	118,000    ||speed8      =	59
+|hp9     =	125,000    ||speed9      =	60
+|hp10    =	133,000    ||speed10     =	61
+|hp11    =	141,000    ||speed11     =	62
+|hp12    =	150,000    ||speed12     =	63
+|mk2hp1  =	150,000    ||mk2speed1   =	63
+|mk2hp2  =	152,800    ||mk2speed2   =	63
+|mk2hp3  =	155,600    ||mk2speed3   =	63
+|mk2hp4  =	158,400    ||mk2speed4   =	63
+|mk2hp5  =	161,200    ||mk2speed5   =	63
+|mk2hp6  =	164,000    ||mk2speed6   =	63
+|mk2hp7  =	166,800    ||mk2speed7   =	63
+|mk2hp8  =	169,600    ||mk2speed8   =	63
+|mk2hp9  =	172,400    ||mk2speed9   =	63
+|mk2hp10 =	175,200    ||mk2speed10  =	63
+|mk2hp11 =	178,000    ||mk2speed11  =	63
+|mk2hp12 =	180,800    ||mk2speed12  =	63
+|mk3hp1  =  189,840    ||mk3speed1   =  63
+}}
+|Strider = {{Robot stats
+|name = Strider
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Dashinfobox.png|32px|link=]]<br>[[Abilities#Dash|Dash]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	68,000     ||speed1      =	46
+|hp2     =	72,000     ||speed2      =	47
+|hp3     =	77,000     ||speed3      =	49
+|hp4     =	82,000     ||speed4      =	51
+|hp5     =	87,000     ||speed5      =	53
+|hp6     =	93,000     ||speed6      =	55
+|hp7     =	99,000     ||speed7      =	56
+|hp8     =	105,000    ||speed8      =	58
+|hp9     =	112,000    ||speed9      =	60
+|hp10    =	119,000    ||speed10     =	61
+|hp11    =	127,000    ||speed11     =	62
+|hp12    =	135,000    ||speed12     =	63
+|mk2hp1  =	135,000    ||mk2speed1   =	63
+|mk2hp2  =	137,500    ||mk2speed2   =	63
+|mk2hp3  =	140,000    ||mk2speed3   =	63
+|mk2hp4  =	142,500    ||mk2speed4   =	63
+|mk2hp5  =	145,000    ||mk2speed5   =	63
+|mk2hp6  =	147,500    ||mk2speed6   =	63
+|mk2hp7  =	150,000    ||mk2speed7   =	63
+|mk2hp8  =	152,500    ||mk2speed8   =	63
+|mk2hp9  =	155,000    ||mk2speed9   =	63
+|mk2hp10 =	157,500    ||mk2speed10  =	63
+|mk2hp11 =	160,000    ||mk2speed11  =	63
+|mk2hp12 =	162,500    ||mk2speed12  =	63
+|mk3hp1  =  170,625    ||mk3speed1   =  63
+}}
+|Weyland = {{Robot stats
+|name = Weyland
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:RepairModeinfobox.png|32px|link=]]<br>[[Abilities#Repair_Mode|Repair Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	126,540    ||speed1      =	40
+|hp2     =	134,620    ||speed2      =	41
+|hp3     =	143,220    ||speed3      =	42
+|hp4     =	152,370    ||speed4      =	42
+|hp5     =	162,100    ||speed5      =	43
+|hp6     =	172,450    ||speed6      =	43
+|hp7     =	183,460    ||speed7      =	44
+|hp8     =	195,180    ||speed8      =	44
+|hp9     =	207,640    ||speed9      =	45
+|hp10    =	220,900    ||speed10     =	46
+|hp11    =	235,000    ||speed11     =	47
+|hp12    =	250,000    ||speed12     =	48
+|mk2hp1  =	250,000    ||mk2speed1   =	48
+|mk2hp2  =	254,600    ||mk2speed2   =	48
+|mk2hp3  =	259,200    ||mk2speed3   =	48
+|mk2hp4  =	263,800    ||mk2speed4   =	48
+|mk2hp5  =	268,400    ||mk2speed5   =	48
+|mk2hp6  =	273,000    ||mk2speed6   =	48
+|mk2hp7  =	277,600    ||mk2speed7   =	48
+|mk2hp8  =	282,200    ||mk2speed8   =	48
+|mk2hp9  =	286,800    ||mk2speed9   =	48
+|mk2hp10 =	291,400    ||mk2speed10  =	48
+|mk2hp11 =	296,000    ||mk2speed11  =	48
+|mk2hp12 =	300,600    ||mk2speed12  =	48
+|mk3hp1  =  315,630    ||mk3speed1   =  48
+}}
+|Nemesis = {{Robot stats
+|name = Nemesis
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:NemesisRetributioninfobox.png|32px|link=]]<br>[[Abilities#Retribution|Retribution]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	100,100    ||speed1      =	46
+|hp2     =	106,100    ||speed2      =	47
+|hp3     =	112,500    ||speed3      =	48
+|hp4     =	119,200    ||speed4      =	49
+|hp5     =	126,400    ||speed5      =	50
+|hp6     =	134,000    ||speed6      =	51
+|hp7     =	142,000    ||speed7      =	52
+|hp8     =	150,500    ||speed8      =	53
+|hp9     =	159,500    ||speed9      =	54
+|hp10    =	169,100    ||speed10     =	55
+|hp11    =	179,200    ||speed11     =	56
+|hp12    =	190,000    ||speed12     =	57
+|mk2hp1  =	190,000    ||mk2speed1   =	57
+|mk2hp2  =	193,500    ||mk2speed2   =	57
+|mk2hp3  =	197,000    ||mk2speed3   =	57
+|mk2hp4  =	200,500    ||mk2speed4   =	57
+|mk2hp5  =	204,000    ||mk2speed5   =	57
+|mk2hp6  =	207,500    ||mk2speed6   =	57
+|mk2hp7  =	211,000    ||mk2speed7   =	57
+|mk2hp8  =	214,500    ||mk2speed8   =	57
+|mk2hp9  =	218,000    ||mk2speed9   =	57
+|mk2hp10 =	221,500    ||mk2speed10  =	57
+|mk2hp11 =	225,000    ||mk2speed11  =	57
+|mk2hp12 =	228,500    ||mk2speed12  =	57
+|mk3hp1  =  239,925    ||mk3speed1   =  57
+}}
+|Typhon = {{Robot stats
+|name = Typhon
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Heavy
+|Class = Medium
+|Ability = [[File:Blackout2.0infobox.png|36px|link=]]<br>Blackout 2.0{{Info-Tooltip|Ability Tooltip}}
+|hp1     =	55,000     ||speed1      =	37
+|hp2     =	59,000     ||speed2      =	38
+|hp3     =	63,000     ||speed3      =	40
+|hp4     =	67,000     ||speed4      =	42
+|hp5     =	71,000     ||speed5      =	43
+|hp6     =	76,000     ||speed6      =	45
+|hp7     =	81,000     ||speed7      =	47
+|hp8     =	86,000     ||speed8      =	48
+|hp9     =	91,000     ||speed9      =	50
+|hp10    =	97,000     ||speed10     =	51
+|hp11    =	103,000    ||speed11     =	52
+|hp12    =	110,000    ||speed12     =	53
+|mk2hp1  =	110,000    ||mk2speed1   =	53
+|mk2hp2  =	112,000    ||mk2speed2   =	53
+|mk2hp3  =	114,000    ||mk2speed3   =	53
+|mk2hp4  =	116,000    ||mk2speed4   =	53
+|mk2hp5  =	118,000    ||mk2speed5   =	53
+|mk2hp6  =	120,000    ||mk2speed6   =	53
+|mk2hp7  =	122,000    ||mk2speed7   =	53
+|mk2hp8  =	124,000    ||mk2speed8   =	53
+|mk2hp9  =	126,000    ||mk2speed9   =	53
+|mk2hp10 =	128,000    ||mk2speed10  =	53
+|mk2hp11 =	130,000    ||mk2speed11  =	53
+|mk2hp12 =	132,000    ||mk2speed12  =	53
+|mk3hp1  =  138,600    ||mk3speed1   =  53
+}}
+|Loki = {{Robot stats
+|name = Loki
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:LokiReconModeinfobox.png|32px|link=]]<br>[[Abilities#Shapeshift|Shapeshift]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	76,400     ||speed1      =	40
+|hp2     =	81,000     ||speed2      =	42
+|hp3     =	85,900     ||speed3      =	43
+|hp4     =	91,100     ||speed4      =	44
+|hp5     =	96,600     ||speed5      =	45
+|hp6     =	102,400    ||speed6      =	46
+|hp7     =	108,500    ||speed7      =	48
+|hp8     =	115,000    ||speed8      =	49
+|hp9     =	121,900    ||speed9      =	50
+|hp10    =	129,200    ||speed10     =	51
+|hp11    =	137,000    ||speed11     =	52
+|hp12    =	145,200    ||speed12     =	53
+|mk2hp1  =	145,200    ||mk2speed1   =	53
+|mk2hp2  =	147,900    ||mk2speed2   =	53
+|mk2hp3  =	150,600    ||mk2speed3   =	53
+|mk2hp4  =	153,300    ||mk2speed4   =	53
+|mk2hp5  =	156,000    ||mk2speed5   =	53
+|mk2hp6  =	158,700    ||mk2speed6   =	53
+|mk2hp7  =	161,400    ||mk2speed7   =	53
+|mk2hp8  =	164,100    ||mk2speed8   =	53
+|mk2hp9  =	166,800    ||mk2speed9   =	53
+|mk2hp10 =	169,500    ||mk2speed10  =	53
+|mk2hp11 =	172,200    ||mk2speed11  =	53
+|mk2hp12 =	174,900    ||mk2speed12  =	53
+|mk3hp1  =  183,645    ||mk3speed1   =  53
+}}
+|Tyr = {{Robot stats
+|name = Tyr
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:TyrAssaultModeinfobox.png|32px|link=]]<br>[[Abilities#Shapeshift|Shapeshift]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	104,000    ||speed1      =	36
+|hp2     =	111,000    ||speed2      =	38
+|hp3     =	118,000    ||speed3      =	39
+|hp4     =	125,000    ||speed4      =	40
+|hp5     =	133,000    ||speed5      =	41
+|hp6     =	142,000    ||speed6      =	43
+|hp7     =	151,000    ||speed7      =	44
+|hp8     =	161,000    ||speed8      =	45
+|hp9     =	171,000    ||speed9      =	46
+|hp10    =	182,000    ||speed10     =	47
+|hp11    =	194,000    ||speed11     =	48
+|hp12    =	206,000    ||speed12     =	49
+|mk2hp1  =	206,000    ||mk2speed1   =	49
+|mk2hp2  =	209,800    ||mk2speed2   =	49
+|mk2hp3  =	213,600    ||mk2speed3   =	49
+|mk2hp4  =	217,400    ||mk2speed4   =	49
+|mk2hp5  =	221,200    ||mk2speed5   =	49
+|mk2hp6  =	225,000    ||mk2speed6   =	49
+|mk2hp7  =	228,800    ||mk2speed7   =	49
+|mk2hp8  =	232,600    ||mk2speed8   =	49
+|mk2hp9  =	236,400    ||mk2speed9   =	49
+|mk2hp10 =	240,200    ||mk2speed10  =	49
+|mk2hp11 =	244,000    ||mk2speed11  =	49
+|mk2hp12 =	247,800    ||mk2speed12  =	49
+|mk3hp1  =  260,190    ||mk3speed1   =  49
+}}
+|Bulwark = {{Robot stats
+|name = Bulwark
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:EnergyShield.png|36px|link=]]<br>[[Abilities#Protection|Protection]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	97,000    ||speed1      =	35
+|hp2     =	103,000   ||speed2      =	37
+|hp3     =	110,000   ||speed3      =	38
+|hp4     =	117,000   ||speed4      =	39
+|hp5     =	124,000   ||speed5      =	40
+|hp6     =	132,000   ||speed6      =	41
+|hp7     =	140,000   ||speed7      =	43
+|hp8     =	149,000   ||speed8      =	44
+|hp9     =	158,000   ||speed9      =	45
+|hp10    =	168,000   ||speed10     =	46
+|hp11    =	179,000   ||speed11     =	47
+|hp12    =	190,000   ||speed12     =	48
+|mk2hp1  =	190,000   ||mk2speed1   =	48
+|mk2hp2  =	193,500   ||mk2speed2   =	48
+|mk2hp3  =	197,000   ||mk2speed3   =	48
+|mk2hp4  =	200,500   ||mk2speed4   =	48
+|mk2hp5  =	204,000   ||mk2speed5   =	48
+|mk2hp6  =	207,500   ||mk2speed6   =	48
+|mk2hp7  =	211,000   ||mk2speed7   =	48
+|mk2hp8  =	214,500   ||mk2speed8   =	48
+|mk2hp9  =	218,000   ||mk2speed9   =	48
+|mk2hp10 =	221,500   ||mk2speed10  =	48
+|mk2hp11 =	225,000   ||mk2speed11  =	48
+|mk2hp12 =	228,500   ||mk2speed12  =	48
+|mk3hp1  =  239,925   ||mk3speed1   =	48
+}}
+<!-- Tier4 -->
+|Ao Jun = {{Robot stats
+|name = Ao Jun
+|Workshop = WorkshopYes
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:DragonBreathinfobox.png|32px|link=]]<br>[[Abilities#Dragon_Breath|Dragon Breath]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	84,200     ||speed1      =	33
+|hp2     =	89,200     ||speed2      =	35
+|hp3     =	94,600     ||speed3      =	36
+|hp4     =	100,300    ||speed4      =	38
+|hp5     =	106,300    ||speed5      =	39
+|hp6     =	112,700    ||speed6      =	41
+|hp7     =	119,500    ||speed7      =	42
+|hp8     =	126,700    ||speed8      =	44
+|hp9     =	134,300    ||speed9      =	45
+|hp10    =	142,400    ||speed10     =	46
+|hp11    =	150,900    ||speed11     =	47
+|hp12    =	160,000    ||speed12     =	48
+|mk2hp1  =	160,000    ||mk2speed1   =	48
+|mk2hp2  =	163,000    ||mk2speed2   =	48
+|mk2hp3  =	166,000    ||mk2speed3   =	48
+|mk2hp4  =	169,000    ||mk2speed4   =	48
+|mk2hp5  =	172,000    ||mk2speed5   =	48
+|mk2hp6  =	175,000    ||mk2speed6   =	48
+|mk2hp7  =	178,000    ||mk2speed7   =	48
+|mk2hp8  =	181,000    ||mk2speed8   =	48
+|mk2hp9  =	184,000    ||mk2speed9   =	48
+|mk2hp10 =	187,000    ||mk2speed10  =	48
+|mk2hp11 =	190,000    ||mk2speed11  =	48
+|mk2hp12 =	193,000    ||mk2speed12  =	48
+|mk3hp1  =  202,650    ||mk3speed1   =  48
+}}
+|Ares = {{Robot stats
+|name = Ares
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:AresRetribution.png|32px|link=]]<br>[[Abilities#Retribution|Retribution]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	64,800     ||speed1      =	48
+|hp2     =	68,700     ||speed2      =	50
+|hp3     =	72,800     ||speed3      =	51
+|hp4     =	77,200     ||speed4      =	53
+|hp5     =	81,800     ||speed5      =	54
+|hp6     =	86,700     ||speed6      =	56
+|hp7     =	91,900     ||speed7      =	57
+|hp8     =	97,400     ||speed8      =	59
+|hp9     =	103,200    ||speed9      =	60
+|hp10    =	109,400    ||speed10     =	61
+|hp11    =	116,000    ||speed11     =	62
+|hp12    =	123,000    ||speed12     =	63
+|mk2hp1  =	123,000    ||mk2speed1   =	63
+|mk2hp2  =	125,300    ||mk2speed2   =	63
+|mk2hp3  =	127,600    ||mk2speed3   =	63
+|mk2hp4  =	129,900    ||mk2speed4   =	63
+|mk2hp5  =	132,200    ||mk2speed5   =	63
+|mk2hp6  =	134,500    ||mk2speed6   =	63
+|mk2hp7  =	136,800    ||mk2speed7   =	63
+|mk2hp8  =	139,100    ||mk2speed8   =	63
+|mk2hp9  =	141,400    ||mk2speed9   =	63
+|mk2hp10 =	143,700    ||mk2speed10  =	63
+|mk2hp11 =	146,000    ||mk2speed11  =	63
+|mk2hp12 =	148,300    ||mk2speed12  =	63
+|mk3hp1  =  155,715    ||mk3speed1   =  63
+}}
+|Behemoth = {{Robot stats
+|name = Behemoth
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:SiegeModeinfobox.png|32px|link=]]<br>[[Abilities#Siege Mode|Siege Mode]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	128,380    ||speed1      =	34
+|hp2     =	136,580    ||speed2      =	35
+|hp3     =	145,300    ||speed3      =	36
+|hp4     =	154,580    ||speed4      =	37
+|hp5     =	164,450    ||speed5      =	38
+|hp6     =	174,950    ||speed6      =	39
+|hp7     =	186,120    ||speed7      =	40
+|hp8     =	198,000    ||speed8      =	41
+|hp9     =	207,640    ||speed9      =	42
+|hp10    =	220,900    ||speed10     =	43
+|hp11    =	235,000    ||speed11     =	44
+|hp12    =	250,000    ||speed12     =	45
+|mk2hp1  =	250,000    ||mk2speed1   =	45
+|mk2hp2  =	254,600    ||mk2speed2   =	45
+|mk2hp3  =	259,200    ||mk2speed3   =	45
+|mk2hp4  =	263,800    ||mk2speed4   =	45
+|mk2hp5  =	268,400    ||mk2speed5   =	45
+|mk2hp6  =	273,000    ||mk2speed6   =	45
+|mk2hp7  =	277,600    ||mk2speed7   =	45
+|mk2hp8  =	282,200    ||mk2speed8   =	45
+|mk2hp9  =	286,800    ||mk2speed9   =	45
+|mk2hp10 =	291,400    ||mk2speed10  =	45
+|mk2hp11 =	296,000    ||mk2speed11  =	45
+|mk2hp12 =	300,600    ||mk2speed12  =	45
+|mk3hp1  =  315,630    ||mk3speed1   =  45
+}}
+|Blitz = {{Robot stats
+|name = Blitz
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Break-Ininfobox.png|32px|link=]]<br>[[Abilities#Break-In|Break-In]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	83,500    ||speed1      =	47
+|hp2     =	89,500    ||speed2      =	48
+|hp3     =	95,000    ||speed3      =	49
+|hp4     =	101,000   ||speed4      =	50
+|hp5     =	108,000   ||speed5      =	51
+|hp6     =	115,000   ||speed6      =	52
+|hp7     =	121,500   ||speed7      =	53
+|hp8     =	129,500   ||speed8      =	54
+|hp9     =	138,000   ||speed9      =	55
+|hp10    =	147,000   ||speed10     =	56
+|hp11    =	156,000   ||speed11     =	57
+|hp12    =	166,500   ||speed12     =	58
+|mk2hp1  =	166,500   ||mk2speed1   =	58
+|mk2hp2  =	169,500   ||mk2speed2   =	58
+|mk2hp3  =	172,500   ||mk2speed3   =	58
+|mk2hp4  =	176,000   ||mk2speed4   =	58
+|mk2hp5  =	179,000   ||mk2speed5   =	58
+|mk2hp6  =	182,000   ||mk2speed6   =	58
+|mk2hp7  =	185,000   ||mk2speed7   =	58
+|mk2hp8  =	188,000   ||mk2speed8   =	58
+|mk2hp9  =	191,500   ||mk2speed9   =	58
+|mk2hp10 =	194,500   ||mk2speed10  =	58
+|mk2hp11 =	197,500   ||mk2speed11  =	58
+|mk2hp12 =	201,000   ||mk2speed12  =	58
+|mk3hp1  =  211,050   ||mk3speed1   =	58
+}}
+|Fenrir = {{Robot stats
+|name = Fenrir
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:FenrirMobileModeinfobox.png|32px|link=]]<br>[[Abilities#Shapeshift|Shapeshift]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	99,190    ||speed1      =	42
+|hp2     =	105,530   ||speed2      =	43
+|hp3     =	112,270   ||speed3      =	44
+|hp4     =	119,440   ||speed4      =	45
+|hp5     =	127,070   ||speed5      =	46
+|hp6     =	135,190   ||speed6      =	47
+|hp7     =	143,820   ||speed7      =	48
+|hp8     =	153,010   ||speed8      =	49
+|hp9     =	162,780   ||speed9      =	50
+|hp10    =	173,180   ||speed10     =	51
+|hp11    =	184,240   ||speed11     =	52
+|hp12    =	196,000   ||speed12     =	53
+|mk2hp1  =	196,000   ||mk2speed1   =	53
+|mk2hp2  =	199,600   ||mk2speed2   =	53
+|mk2hp3  =	203,200   ||mk2speed3   =	53
+|mk2hp4  =	206,800   ||mk2speed4   =	53
+|mk2hp5  =	210,400   ||mk2speed5   =	53
+|mk2hp6  =	214,000   ||mk2speed6   =	53
+|mk2hp7  =	217,600   ||mk2speed7   =	53
+|mk2hp8  =	221,200   ||mk2speed8   =	53
+|mk2hp9  =	224,800   ||mk2speed9   =	53
+|mk2hp10 =	228,400   ||mk2speed10  =	53
+|mk2hp11 =	232,000   ||mk2speed11  =	53
+|mk2hp12 =	235,600   ||mk2speed12  =	53
+|mk3hp1  =  247,380   ||mk3speed1   =	53
+}}
+|Hades = {{Robot stats
+|name = Hades
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:HadesRetributioninfobox.png|32px|link=]]<br>[[Abilities#Retribution|Retribution]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	96,800   ||speed1      =	40
+|hp2     =	102,600   ||speed2      =	42
+|hp3     =	108,800   ||speed3      =	43
+|hp4     =	115,300   ||speed4      =	45
+|hp5     =	122,200   ||speed5      =	46
+|hp6     =	129,600   ||speed6      =	48
+|hp7     =	137,400   ||speed7      =	49
+|hp8     =	145,700   ||speed8      =	51
+|hp9     =	154,400   ||speed9      =	53
+|hp10    =	163,700   ||speed10     =	54
+|hp11    =	173,500   ||speed11     =	55
+|hp12    =	184,000   ||speed12     =	56
+|mk2hp1  =	184,000   ||mk2speed1   =	56
+|mk2hp2  =	187,400   ||mk2speed2   =	56
+|mk2hp3  =	191,000   ||mk2speed3   =	56
+|mk2hp4  =	194,300   ||mk2speed4   =	56
+|mk2hp5  =	197,800   ||mk2speed5   =	56
+|mk2hp6  =	201,200   ||mk2speed6   =	56
+|mk2hp7  =	204,700   ||mk2speed7   =	56
+|mk2hp8  =	208,100   ||mk2speed8   =	56
+|mk2hp9  =	211,600   ||mk2speed9   =	56
+|mk2hp10 =	215,000   ||mk2speed10  =	56
+|mk2hp11 =	218,500   ||mk2speed11  =	56
+|mk2hp12 =	222,000   ||mk2speed12  =	56
+|mk3hp1  =  233,100   ||mk3speed1   =	56\
+}}
+|Hawk = {{Robot stats
+|name = Hawk
+|Workshop = WorkshopYes
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Transforminfobox.png|36px|link=]]<br>[[Abilities#Transform|Transform]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	75,780  ||speed1      =	33
+|hp2     =	80,280   ||speed2      =	35
+|hp3     =	85,140   ||speed3      =	36
+|hp4     =	90,270   ||speed4      =	38
+|hp5     =	95,670   ||speed5      =	39
+|hp6     =	101,430   ||speed6      =	41
+|hp7     =	107,550   ||speed7      =	42
+|hp8     =	114,030   ||speed8      =	44
+|hp9     =	120,870   ||speed9      =	45
+|hp10    =	128,160   ||speed10     =	46
+|hp11    =	135,810   ||speed11     =	47
+|hp12    =	144,000   ||speed12     =	48
+|mk2hp1  =	144,000   ||mk2speed1   =	48
+|mk2hp2  =	146,700   ||mk2speed2   =	48
+|mk2hp3  =	149,400   ||mk2speed3   =	48
+|mk2hp4  =	152,100   ||mk2speed4   =	48
+|mk2hp5  =	154,800   ||mk2speed5   =	48
+|mk2hp6  =	157,500   ||mk2speed6   =	48
+|mk2hp7  =	160,200   ||mk2speed7   =	48
+|mk2hp8  =	162,900   ||mk2speed8   =	48
+|mk2hp9  =	165,600   ||mk2speed9   =	48
+|mk2hp10 =	168,300   ||mk2speed10  =	48
+|mk2hp11 =	171,000   ||mk2speed11  =	48
+|mk2hp12 =	173,700   ||mk2speed12  =	48
+|mk3hp1  =  182,385   ||mk3speed1   =	48
+}}
+|Jaeger = {{Robot stats
+|name = Jaeger
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = <!--[[File:EnergyShield.png|36px|link=]]<br>[[Abilities#Protection|Protection]] {{Info-Tooltip|Ability Tooltip}}-->
+|hp1     =	84,200    ||speed1      =	45
+|hp2     =	89,200    ||speed2      =	47
+|hp3     =	94,600    ||speed3      =	49
+|hp4     =	100,300   ||speed4      =	50
+|hp5     =	106,300   ||speed5      =	51
+|hp6     =	112,700   ||speed6      =	52
+|hp7     =	119,500   ||speed7      =	53
+|hp8     =	126,700   ||speed8      =	54
+|hp9     =	134,300   ||speed9      =	55
+|hp10    =	142,400   ||speed10     =	56
+|hp11    =	150,900   ||speed11     =	57
+|hp12    =	160,000   ||speed12     =	58
+|mk2hp1  =	160,000   ||mk2speed1   =	58
+|mk2hp2  =	162,900   ||mk2speed2   =	58
+|mk2hp3  =	165,800   ||mk2speed3   =	58
+|mk2hp4  =	168,700   ||mk2speed4   =	58
+|mk2hp5  =	171,600   ||mk2speed5   =	58
+|mk2hp6  =	174,500   ||mk2speed6   =	58
+|mk2hp7  =	177,500   ||mk2speed7   =	58
+|mk2hp8  =	180,400   ||mk2speed8   =	58
+|mk2hp9  =	183,300   ||mk2speed9   =	58
+|mk2hp10 =	186,200   ||mk2speed10  =	58
+|mk2hp11 =	189,100   ||mk2speed11  =	58
+|mk2hp12 =	192,000   ||mk2speed12  =	58
+|mk3hp1  =  201,600   ||mk3speed1   =	58
+}}
+|Leech = {{Robot stats
+|name = Leech
+|Workshop = WorkshopYes
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Heavy
+|Class = Heavy
+|Ability = [[File:Repulseinfobox.png|32px|link=]]<br>[[Abilities#Repulse|Repulse]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	65,800    ||speed1      =	45
+|hp2     =	69,800    ||speed2      =	47
+|hp3     =	74,000    ||speed3      =	48
+|hp4     =	78,400    ||speed4      =	49
+|hp5     =	83,100    ||speed5      =	50
+|hp6     =	88,100    ||speed6      =	51
+|hp7     =	93,400    ||speed7      =	52
+|hp8     =	99,000    ||speed8      =	53
+|hp9     =	104,900   ||speed9      =	55
+|hp10    =	111,200   ||speed10     =	56
+|hp11    =	117,900   ||speed11     =	57
+|hp12    =	125,000   ||speed12     =	58
+|mk2hp1  =	125,000   ||mk2speed1   =	58
+|mk2hp2  =	127,300   ||mk2speed2   =	58
+|mk2hp3  =	129,600   ||mk2speed3   =	58
+|mk2hp4  =	131,900   ||mk2speed4   =	58
+|mk2hp5  =	134,200   ||mk2speed5   =	58
+|mk2hp6  =	136,500   ||mk2speed6   =	58
+|mk2hp7  =	138,800   ||mk2speed7   =	58
+|mk2hp8  =	141,100   ||mk2speed8   =	58
+|mk2hp9  =	143,400   ||mk2speed9   =	58
+|mk2hp10 =	145,700   ||mk2speed10  =	58
+|mk2hp11 =	148,000   ||mk2speed11  =	58
+|mk2hp12 =	150,300   ||mk2speed12  =	58
+|mk3hp1  =  157,815   ||mk3speed1   =	58
+}}
+|Nightingale = {{Robot stats
+|name = Nightingale
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:AirSupportinfobox.png|36px|link=]]<br>[[Abilities#AirSupport|Air Support]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	97,000    ||speed1      =	44
+|hp2     =	104,000   ||speed2      =	45
+|hp3     =	111,000   ||speed3      =	46
+|hp4     =	119,000   ||speed4      =	47
+|hp5     =	127,000   ||speed5      =	48
+|hp6     =	136,000   ||speed6      =	50
+|hp7     =	145,000   ||speed7      =	51
+|hp8     =	155,000   ||speed8      =	53
+|hp9     =	165,000   ||speed9      =	55
+|hp10    =	176,000   ||speed10     =	56
+|hp11    =	188,000   ||speed11     =	57
+|hp12    =	200,000   ||speed12     =	58
+|mk2hp1  =	200,000   ||mk2speed1   =	58
+|mk2hp2  =	203,500   ||mk2speed2   =	58
+|mk2hp3  =	207,000   ||mk2speed3   =	58
+|mk2hp4  =	210,500   ||mk2speed4   =	58
+|mk2hp5  =	214,000   ||mk2speed5   =	58
+|mk2hp6  =	217,500   ||mk2speed6   =	58
+|mk2hp7  =	221,000   ||mk2speed7   =	58
+|mk2hp8  =	224,500   ||mk2speed8   =	58
+|mk2hp9  =	228,500   ||mk2speed9   =	58
+|mk2hp10 =	232,000   ||mk2speed10  =	58
+|mk2hp11 =	236,000   ||mk2speed11  =	58
+|mk2hp12 =	240,000   ||mk2speed12  =	58
+|mk3hp1  =  252,000   ||mk3speed1   =	58
+}}
+|Phantom = {{Robot stats
+|name = Phantom
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Light
+|Class = Medium
+|Ability = [[File:Teleportionfobox.png|32px|link=]]<br>[[Abilities#Blink|Blink]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	96,000    ||speed1      =	60
+|hp2     =	102,000   ||speed2      =	60
+|hp3     =	108,000   ||speed3      =	60
+|hp4     =	115,000   ||speed4      =	60
+|hp5     =	122,000   ||speed5      =	60
+|hp6     =	129,000   ||speed6      =	60
+|hp7     =	137,000   ||speed7      =	60
+|hp8     =	145,000   ||speed8      =	60
+|hp9     =	154,000   ||speed9      =	60
+|hp10    =	163,000   ||speed10     =	60
+|hp11    =	173,000   ||speed11     =	60
+|hp12    =	183,000   ||speed12     =	60
+|mk2hp1  =	183,000   ||mk2speed1   =	60
+|mk2hp2  =	186,400   ||mk2speed2   =	60
+|mk2hp3  =	189,800   ||mk2speed3   =	60
+|mk2hp4  =	193,200   ||mk2speed4   =	60
+|mk2hp5  =	196,600   ||mk2speed5   =	60
+|mk2hp6  =	200,000   ||mk2speed6   =	60
+|mk2hp7  =	203,400   ||mk2speed7   =	60
+|mk2hp8  =	206,800   ||mk2speed8   =	60
+|mk2hp9  =	210,200   ||mk2speed9   =	60
+|mk2hp10 =	213,600   ||mk2speed10  =	60
+|mk2hp11 =	217,000   ||mk2speed11  =	60
+|mk2hp12 =	220,400   ||mk2speed12  =	60
+|mk3hp1  =  231,420   ||mk3speed1   =	60
+}}
+|Ravana = {{Robot stats
+|name = Ravana
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Heavy
+|Class = Medium
+|Ability = [[File:Transcendenceinfobox.png|36px|link=]]<br>[[Abilities#Transcendence|Transcendence]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	118,800   ||speed1      =	43
+|hp2     =	126,900   ||speed2      =	44
+|hp3     =	135,000   ||speed3      =	45
+|hp4     =	144,000   ||speed4      =	46
+|hp5     =	153,900   ||speed5      =	47
+|hp6     =	163,800   ||speed6      =	48
+|hp7     =	174,600   ||speed7      =	49
+|hp8     =	186,300   ||speed8      =	50
+|hp9     =	198,900   ||speed9      =	50
+|hp10    =	212,400   ||speed10     =	51
+|hp11    =	226,800   ||speed11     =	52
+|hp12    =	241,857   ||speed12     =	53
+|mk2hp1  =	241,857   ||mk2speed1   =	53
+|mk2hp2  =	246,360   ||mk2speed2   =	53
+|mk2hp3  =	250,860   ||mk2speed3   =	53
+|mk2hp4  =	255,360   ||mk2speed4   =	53
+|mk2hp5  =	259,860   ||mk2speed5   =	53
+|mk2hp6  =	264,360   ||mk2speed6   =	53
+|mk2hp7  =	268,860   ||mk2speed7   =	53
+|mk2hp8  =	273,360   ||mk2speed8   =	53
+|mk2hp9  =	277,860   ||mk2speed9   =	53
+|mk2hp10 =	282,360   ||mk2speed10  =	53
+|mk2hp11 =	286,860   ||mk2speed11  =	53
+|mk2hp12 =	291,360   ||mk2speed12  =	53
+|mk3hp1  =  305,928   ||mk3speed1   =	53
+}}
+|Scorpion = {{Robot stats
+|name = Scorpion
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Backstabinfobox.png|36px|link=]]<br>[[Abilities#Backstab|Backstab]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	84,200    ||speed1      =	49
+|hp2     =	89,200    ||speed2      =	51
+|hp3     =	94,600    ||speed3      =	52
+|hp4     =	100,300   ||speed4      =	54
+|hp5     =	106,300   ||speed5      =	55
+|hp6     =	112,700   ||speed6      =	57
+|hp7     =	119,500   ||speed7      =	58
+|hp8     =	126,700   ||speed8      =	60
+|hp9     =	134,300   ||speed9      =	61
+|hp10    =	142,400   ||speed10     =	62
+|hp11    =	150,900   ||speed11     =	63
+|hp12    =	160,000   ||speed12     =	64
+|mk2hp1  =	160,000   ||mk2speed1   =	64
+|mk2hp2  =	162,910   ||mk2speed2   =	64
+|mk2hp3  =	165,820   ||mk2speed3   =	64
+|mk2hp4  =	168,730   ||mk2speed4   =	64
+|mk2hp5  =	171,640   ||mk2speed5   =	64
+|mk2hp6  =	174,545   ||mk2speed6   =	64
+|mk2hp7  =	177,455   ||mk2speed7   =	64
+|mk2hp8  =	180,365   ||mk2speed8   =	64
+|mk2hp9  =	183,270   ||mk2speed9   =	64
+|mk2hp10 =	186,180   ||mk2speed10  =	64
+|mk2hp11 =	189,090   ||mk2speed11  =	64
+|mk2hp12 =	192,000   ||mk2speed12  =	64
+|mk3hp1  =  201,600   ||mk3speed1   =	64
+}}
+|Schutze = {{Robot stats
+|name = Schutze
+|Workshop = WorkshopYes
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Light
+|Class = Light
+|Ability = none
+|hp1     =	50,290    ||speed1      =	42
+|hp2     =	53,500    ||speed2      =	43
+|hp3     =	56,710    ||speed3      =	45
+|hp4     =	59,920    ||speed4      =	47
+|hp5     =	64,200    ||speed5      =	48
+|hp6     =	68,480    ||speed6      =	50
+|hp7     =	72,760    ||speed7      =	52
+|hp8     =	77,040    ||speed8      =	53
+|hp9     =	82,390    ||speed9      =	55
+|hp10    =	87,740    ||speed10     =	56
+|hp11    =	93,090    ||speed11     =	57
+|hp12    =	99,510    ||speed12     =	58
+|mk2hp1  =	99,510    ||mk2speed1   =	58
+|mk2hp2  =	101,330   ||mk2speed2   =	58
+|mk2hp3  =	103,150   ||mk2speed3   =	58
+|mk2hp4  =	104,970   ||mk2speed4   =	58
+|mk2hp5  =	106,785   ||mk2speed5   =	58
+|mk2hp6  =	108,605   ||mk2speed6   =	58
+|mk2hp7  =	110,425   ||mk2speed7   =	58
+|mk2hp8  =	112,245   ||mk2speed8   =	58
+|mk2hp9  =	114,065   ||mk2speed9   =	58
+|mk2hp10 =	115,880   ||mk2speed10  =	58
+|mk2hp11 =	117,700   ||mk2speed11  =	58
+|mk2hp12 =	119,520   ||mk2speed12  =	58
+|mk3hp1  =  125,496   ||mk3speed1   =	58
+}}
+|Golem = {{Robot stats
+|name = Golem
+|Workshop = WorkshopNo
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 1
+|Wiki Class = Medium
+|Class = Medium
+|Ability = none
+|hp1     =	73,000    ||speed1      =	32
+|hp2     =	79,000    ||speed2      =	33
+|hp3     =	85,000    ||speed3      =	34
+|hp4     =	92,000    ||speed4      =	36
+|hp5     =	99,000    ||speed5      =	37
+|hp6     =	107,000   ||speed6      =	38
+|hp7     =	116,000   ||speed7      =	39
+|hp8     =	125,000   ||speed8      =	41
+|hp9     =	135,000   ||speed9      =	42
+|hp10    =	146,000   ||speed10     =	43
+|hp11    =	158,000   ||speed11     =	44
+|hp12    =	171,000   ||speed12     =	45
+|mk2hp1  =	171,000   ||mk2speed1   =	45
+|mk2hp2  =	174,100   ||mk2speed2   =	45
+|mk2hp3  =	177,200   ||mk2speed3   =	45
+|mk2hp4  =	180,300   ||mk2speed4   =	45
+|mk2hp5  =	183,400   ||mk2speed5   =	45
+|mk2hp6  =	186,500   ||mk2speed6   =	45
+|mk2hp7  =	189,600   ||mk2speed7   =	45
+|mk2hp8  =	192,700   ||mk2speed8   =	45
+|mk2hp9  =	195,800   ||mk2speed9   =	45
+|mk2hp10 =	198,900   ||mk2speed10  =	45
+|mk2hp11 =	202,000   ||mk2speed11  =	45
+|mk2hp12 =	205,100   ||mk2speed12  =	45
+|mk3hp1  =  215,355   ||mk3speed1   =	45
+}}
+|Shell= {{Robot stats
+|name = Shell
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Overloadinfobox.png|32px|link=]]<br>[[Abilities#Atom|Atom]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	115,800   ||speed1      =	33
+|hp2     =	122,700   ||speed2      =	35
+|hp3     =	130,100   ||speed3      =	36
+|hp4     =	137,900   ||speed4      =	38
+|hp5     =	146,200   ||speed5      =	39
+|hp6     =	155,000   ||speed6      =	41
+|hp7     =	164,300   ||speed7      =	42
+|hp8     =	174,200   ||speed8      =	44
+|hp9     =	184,700   ||speed9      =	45
+|hp10    =	195,800   ||speed10     =	46
+|hp11    =	207,500   ||speed11     =	47
+|hp12    =	220,000   ||speed12     =	48
+|mk2hp1  =	220,000   ||mk2speed1   =	48
+|mk2hp2  =	224,400   ||mk2speed2   =	48
+|mk2hp3  =	228,800   ||mk2speed3   =	48
+|mk2hp4  =	233,200   ||mk2speed4   =	48
+|mk2hp5  =	237,600   ||mk2speed5   =	48
+|mk2hp6  =	242,000   ||mk2speed6   =	48
+|mk2hp7  =	246,400   ||mk2speed7   =	48
+|mk2hp8  =	250,800   ||mk2speed8   =	48
+|mk2hp9  =	255,200   ||mk2speed9   =	48
+|mk2hp10 =	259,600   ||mk2speed10  =	48
+|mk2hp11 =	264,000   ||mk2speed11  =	48
+|mk2hp12 =	268,400   ||mk2speed12  =	48
+|mk3hp1  =  281,820   ||mk3speed1   =	48
+}}
+|Fafnir= {{Robot stats
+|name = Fafnir
+|Workshop = WorkshopNo
+|Faction = Evolife
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Ability_Fafnir.png|32px|link=]]<br>[[Abilities#Shapeshift|Shapeshift]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	78,340    ||speed1      =	30
+|hp2     =	83,350    ||speed2      =	31
+|hp3     =	88,670    ||speed3      =	32
+|hp4     =	94,330    ||speed4      =	34
+|hp5     =	100,360   ||speed5      =	35
+|hp6     =	106,770   ||speed6      =	37
+|hp7     =	113,590   ||speed7      =	38
+|hp8     =	120,840   ||speed8      =	40
+|hp9     =	128,560   ||speed9      =	43
+|hp10    =	136,770   ||speed10     =	44
+|hp11    =	145,510   ||speed11     =	45
+|hp12    =	154,800   ||speed12     =	46
+|mk2hp1  =	154,800   ||mk2speed1   =	46
+|mk2hp2  =	157,890   ||mk2speed2   =	46
+|mk2hp3  =	162,540   ||mk2speed3   =	46
+|mk2hp4  =	165,630   ||mk2speed4   =	46
+|mk2hp5  =	168,730   ||mk2speed5   =	46
+|mk2hp6  =	171,820   ||mk2speed6   =	46
+|mk2hp7  =	176,470   ||mk2speed7   =	46
+|mk2hp8  =	178,020   ||mk2speed8   =	46
+|mk2hp9  =	179,560   ||mk2speed9   =	46
+|mk2hp10 =	182,660   ||mk2speed10  =	46
+|mk2hp11 =	184,210   ||mk2speed11  =	46
+|mk2hp12 =	185,760   ||mk2speed12  =	46
+|mk3hp1  =  195,048   ||mk3speed1   =	46
+}}
+|Invader= {{Robot stats
+|name = Invader
+|Workshop = WorkshopYes
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Incursioninfobox.png|32px|link=]]<br>[[Abilities#Incursion|Incursion]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	178310   ||speed1      =	40
+|hp2     =	189695   ||speed2      =	40
+|hp3     =	201806   ||speed3      =	41
+|hp4     =	214698   ||speed4      =	41
+|hp5     =	228404   ||speed5      =	42
+|hp6     =	242990   ||speed6      =	42
+|hp7     =	258511   ||speed7      =	43
+|hp8     =	275022   ||speed8      =	43
+|hp9     =	292578   ||speed9      =	44
+|hp10    =	311256   ||speed10     =	45
+|hp11    =	331133   ||speed11     =	46
+|hp12    =	352275   ||speed12     =	47
+|mk2hp1  =	352275   ||mk2speed1   =	47
+|mk2hp2  =	359315   ||mk2speed2   =	47
+|mk2hp3  =	369886   ||mk2speed3   =	47
+|mk2hp4  =	376926   ||mk2speed4   =	47
+|mk2hp5  =	383977   ||mk2speed5   =	47
+|mk2hp6  =	391017   ||mk2speed6   =	47
+|mk2hp7  =	401588   ||mk2speed7   =	47
+|mk2hp8  =	405108   ||mk2speed8   =	47
+|mk2hp9  =	408639   ||mk2speed9   =	47
+|mk2hp10 =	415679   ||mk2speed10  =	47
+|mk2hp11 =	419199   ||mk2speed11  =	47
+|mk2hp12 =	422730   ||mk2speed12  =	47
+|mk3hp1  =  443866   ||mk3speed1   =	47
+}}
+|Orochi= {{Robot stats
+|name = Orochi
+|Workshop = WorkshopNo
+|Faction = Spacetech
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Viper_Strike.png|32px|link=]]<br>[[Abilities#Viper_Strike|Viper Strike]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	67,900    ||speed1      =	54
+|hp2     =	72,000    ||speed2      =	56
+|hp3     =	76,300    ||speed3      =	57
+|hp4     =	80,900    ||speed4      =	59
+|hp5     =	85,800    ||speed5      =	60
+|hp6     =	90,900    ||speed6      =	62
+|hp7     =	96,400    ||speed7      =	63
+|hp8     =	102,200   ||speed8      =	65
+|hp9     =	108,300   ||speed9      =	66
+|hp10    =	114,800   ||speed10     =	67
+|hp11    =	121,700   ||speed11     =	68
+|hp12    =	129,000   ||speed12     =	69
+|mk2hp1  =	129,000   ||mk2speed1   =	69
+|mk2hp2  =	131,345   ||mk2speed2   =	69
+|mk2hp3  =	133,690   ||mk2speed3   =	69
+|mk2hp4  =	136,035   ||mk2speed4   =	69
+|mk2hp5  =	138,380   ||mk2speed5   =	69
+|mk2hp6  =	140,730   ||mk2speed6   =	69
+|mk2hp7  =	143,075   ||mk2speed7   =	69
+|mk2hp8  =	145,420   ||mk2speed8   =	69
+|mk2hp9  =	147,765   ||mk2speed9   =	69
+|mk2hp10 =	150,110   ||mk2speed10  =	69
+|mk2hp11 =	152,455   ||mk2speed11  =	69
+|mk2hp12 =	154,800   ||mk2speed12  =	69
+|mk3hp1  =  162,540   ||mk3speed1   =	69
+}}
+|Revenant= {{Robot stats
+|name = Revenant
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:AgressiveBlink.png|32px|link=]]<br>[[Abilities#AgressiveBlink|AgressiveBlink]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	139,705   ||speed1      =	33
+|hp2     =	148,085   ||speed2      =	35
+|hp3     =	156,970   ||speed3      =	36
+|hp4     =	166,390   ||speed4      =	38
+|hp5     =	176,375   ||speed5      =	39
+|hp6     =	186,955   ||speed6      =	41
+|hp7     =	198,170   ||speed7      =	42
+|hp8     =	210,065   ||speed8      =	44
+|hp9     =	222,667   ||speed9      =	45
+|hp10    =	236,027   ||speed10     =	46
+|hp11    =	250,190   ||speed11     =	47
+|hp12    =	265,200   ||speed12     =	48
+|mk2hp1  =	265,200   ||mk2speed1   =	48
+|mk2hp2  =	270,505   ||mk2speed2   =	48
+|mk2hp3  =	275,915   ||mk2speed3   =	48
+|mk2hp4  =	281,435   ||mk2speed4   =	48
+|mk2hp5  =	287,060   ||mk2speed5   =	48
+|mk2hp6  =	292,800   ||mk2speed6   =	48
+|mk2hp7  =	298,660   ||mk2speed7   =	48
+|mk2hp8  =	301,645   ||mk2speed8   =	48
+|mk2hp9  =	304,660   ||mk2speed9   =	48
+|mk2hp10 =	310,755   ||mk2speed10  =	48
+|mk2hp11 =	313,860   ||mk2speed11  =	48
+|mk2hp12 =	317,000   ||mk2speed12  =	48
+|mk3hp1  =  332,850   ||mk3speed1   =	48
+}}
+|Demeter= {{Robot stats
+|name = Demeter
+|Workshop = WorkshopNo
+|Faction = Icarus
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Repairing_Cover.png|32px|link=]]<br>[[Abilities#Repairing_Cover|Repairing Cover]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	77,930   ||speed1      =	45
+|hp2     =	82,910   ||speed2      =	47
+|hp3     =	88,210   ||speed3      =	49
+|hp4     =	93,850   ||speed4      =	50
+|hp5     =	99,840   ||speed5      =	51
+|hp6     =	106,220   ||speed6      =	52
+|hp7     =	113,000   ||speed7      =	53
+|hp8     =	120,220   ||speed8      =	54
+|hp9     =	127,900   ||speed9      =	55
+|hp10    =	136,070   ||speed10     =	56
+|hp11    =	144,760   ||speed11     =	57
+|hp12    =	154,000   ||speed12     =	58
+|mk2hp1  =	154,000   ||mk2speed1   =	58
+|mk2hp2  =	157,080   ||mk2speed2   =	58
+|mk2hp3  =	161,700   ||mk2speed3   =	58
+|mk2hp4  =	164,780   ||mk2speed4   =	58
+|mk2hp5  =	167,860   ||mk2speed5   =	58
+|mk2hp6  =	170,940   ||mk2speed6   =	58
+|mk2hp7  =	175,560   ||mk2speed7   =	58
+|mk2hp8  =	177,100   ||mk2speed8   =	58
+|mk2hp9  =	178,640   ||mk2speed9   =	58
+|mk2hp10 =	181,720   ||mk2speed10  =	58
+|mk2hp11 =	183,260   ||mk2speed11  =	58
+|mk2hp12 =	184,800   ||mk2speed12  =	58
+|mk3hp1  =  194,040   ||mk3speed1   =	58
+}}
+|Spectre= {{Robot stats
+|name = Spectre
+|Workshop = WorkshopYes
+|Faction = Yan-di
+|Version = 7.7.7
+|Level = 1
+|Tier = 3
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:Descendinfobox.png|32px|link=]]<br>[[Abilities#Descend|Descend]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	55,000    ||speed1      =	37
+|hp2     =	59,000    ||speed2      =	38
+|hp3     =	63,000    ||speed3      =	40
+|hp4     =	67,000    ||speed4      =	42
+|hp5     =	71,000    ||speed5      =	43
+|hp6     =	76,000    ||speed6      =	45
+|hp7     =	81,000    ||speed7      =	47
+|hp8     =	86,000    ||speed8      =	48
+|hp9     =	91,000    ||speed9      =	50
+|hp10    =	97,000    ||speed10     =	51
+|hp11    =	103,000   ||speed11     =	52
+|hp12    =	110,000   ||speed12     =	53
+|mk2hp1  =	110,000   ||mk2speed1   =	53
+|mk2hp2  =	112,000   ||mk2speed2   =	53
+|mk2hp3  =	114,000   ||mk2speed3   =	53
+|mk2hp4  =	116,000   ||mk2speed4   =	53
+|mk2hp5  =	118,000   ||mk2speed5   =	53
+|mk2hp6  =	120,000   ||mk2speed6   =	53
+|mk2hp7  =	122,000   ||mk2speed7   =	53
+|mk2hp8  =	124,000   ||mk2speed8   =	53
+|mk2hp9  =	126,000   ||mk2speed9   =	53
+|mk2hp10 =	128,000   ||mk2speed10  =	53
+|mk2hp11 =	130,000   ||mk2speed11  =	53
+|mk2hp12 =	132,000   ||mk2speed12  =	53
+|mk3hp1  =  138,600   ||mk3speed1   =	53
+}}
+|Harpy= {{Robot stats
+|name = Harpy
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:harpy_jump.png|50px|link=]]<br>[[Abilities#harpy_jump|Firestorm]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	86400    ||speed1      =	38
+|hp2     =	91600    ||speed2      =	39
+|hp3     =	97000    ||speed3      =	40
+|hp4     =	102900   ||speed4      =	42
+|hp5     =	109100   ||speed5      =	44
+|hp6     =	115600   ||speed6      =	46
+|hp7     =	122600   ||speed7      =	48
+|hp8     =	130000   ||speed8      =	49
+|hp9     =	137700   ||speed9      =	50
+|hp10    =	146000   ||speed10     =	51
+|hp11    =	154800   ||speed11     =	52
+|hp12    =	164000   ||speed12     =	53
+|mk2hp1  =	164000   ||mk2speed1   =	53
+|mk2hp2  =	167000   ||mk2speed2   =	53
+|mk2hp3  =	170000   ||mk2speed3   =	53
+|mk2hp4  =	173000   ||mk2speed4   =	53
+|mk2hp5  =	176000   ||mk2speed5   =	53
+|mk2hp6  =	179000   ||mk2speed6   =	53
+|mk2hp7  =	181900   ||mk2speed7   =	53
+|mk2hp8  =	184900   ||mk2speed8   =	53
+|mk2hp9  =	187900   ||mk2speed9   =	53
+|mk2hp10 =	190900   ||mk2speed10  =	53
+|mk2hp11 =	193900   ||mk2speed11  =	53
+|mk2hp12 =	196800   ||mk2speed12  =	53
+|mk3hp1  =  206700   ||mk3speed1   =	53
+}}
+|Siren= {{Robot stats
+|name = Siren
+|Workshop = WorkshopNo
+|Faction = DSC
+|Version = 7.7.7
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:harpy_jump.png|50px|link=]]<br>[[Abilities#harpy_jump|Snowstorm]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	79,700    ||speed1      =	38
+|hp2     =	84,500    ||speed2      =	39
+|hp3     =	89,600    ||speed3      =	40
+|hp4     =	95,000    ||speed4      =	42
+|hp5     =	100,700   ||speed5      =	44
+|hp6     =	106,700   ||speed6      =	46
+|hp7     =	113,200   ||speed7      =	48
+|hp8     =	120,000   ||speed8      =	49
+|hp9     =	127,100   ||speed9      =	50
+|hp10    =	134,800   ||speed10     =	51
+|hp11    =	142,900   ||speed11     =	52
+|hp12    =	151,400   ||speed12     =	53
+|mk2hp1  =	151,400   ||mk2speed1   =	53
+|mk2hp2  =	154,200   ||mk2speed2   =	53
+|mk2hp3  =	156,900   ||mk2speed3   =	53
+|mk2hp4  =	159,700   ||mk2speed4   =	53
+|mk2hp5  =	162,400   ||mk2speed5   =	53
+|mk2hp6  =	165,200   ||mk2speed6   =	53
+|mk2hp7  =	167,900   ||mk2speed7   =	53
+|mk2hp8  =	170,700   ||mk2speed8   =	53
+|mk2hp9  =	173,500   ||mk2speed9   =	53
+|mk2hp10 =	176,200   ||mk2speed10  =	53
+|mk2hp11 =	179,000   ||mk2speed11  =	53
+|mk2hp12 =	181,700   ||mk2speed12  =	53
+|mk3hp1  =  190,800   ||mk3speed1   =	53
+}}
+|Khepri= {{Robot stats
+|name = Khepri
+|Workshop = WorkshopNo
+|Faction = Yan-di
+|Version = 7.8
+|Level = 1
+|Tier = 4
+|Wiki Class = Medium
+|Class = Medium
+|Ability = [[File:bond.png|32px|link=]]<br>[[Abilities#Bond|Bond]] {{Info-Tooltip|Ability Tooltip}}
+|hp1     =	122,990   ||speed1      =	45
+|hp2     =	130,850   ||speed2      =	47
+|hp3     =	139,210   ||speed3      =	48
+|hp4     =	148,100   ||speed4      =	49
+|hp5     =	157,560   ||speed5      =	50
+|hp6     =	167,620   ||speed6      =	51
+|hp7     =	178,320   ||speed7      =	52
+|hp8     =	189,710   ||speed8      =	53
+|hp9     =	201,820   ||speed9      =	55
+|hp10    =	214,710   ||speed10     =	56
+|hp11    =	228,420   ||speed11     =	57
+|hp12    =	243,000   ||speed12     =	58
+|mk2hp1  =	243,000   ||mk2speed1   =	58
+|mk2hp2  =	247,860   ||mk2speed2   =	58
+|mk2hp3  =	255,150   ||mk2speed3   =	58
+|mk2hp4  =	260,010   ||mk2speed4   =	58
+|mk2hp5  =	264,870   ||mk2speed5   =	58
+|mk2hp6  =	269,730   ||mk2speed6   =	58
+|mk2hp7  =	277,020   ||mk2speed7   =	58
+|mk2hp8  =	279,450   ||mk2speed8   =	58
+|mk2hp9  =	281,880   ||mk2speed9   =	58
+|mk2hp10 =	286,740   ||mk2speed10  =	58
+|mk2hp11 =	289,170   ||mk2speed11  =	58
+|mk2hp12 =	291,600   ||mk2speed12  =	58
+|mk3hp1  =  306,180   ||mk3speed1   =	58
+}}
+<!-- default on this if an invalid reason is given
+-->|#default = {{R|HORRIBLE IDENTIFIER}}}}<!--
