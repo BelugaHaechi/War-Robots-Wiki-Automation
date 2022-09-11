@@ -11,11 +11,16 @@ __NOTE:__ The excel datasheet provided is for display purposes only. Do not dist
 (_Note: stable but still requires tweaks for useabiliity_)
 * MasterRobot
 * MasterEquipment
-* Weapons Data (weapons simulator)
+* WeaponsData (weapons simulator)
+* MasterPilot
+* MasterAbility
+* AbilityData
+* MasterTEquipment
+* TWeaponsData
 
 ### Pending Projects
-* MasterPilot
 * MasterTitan
+* MasterInfobox
 
 (Work In Progress)
 
