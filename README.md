@@ -8,14 +8,17 @@ __NOTE:__ The excel datasheet provided is for display purposes only. Do not dist
 
 ## Status
 ### Complete Projects
-(_Note: stable but still requires tweaks for useabiliity_)
+(_Note: stable but still requires regular tweaks for useabiliity_)
 * MasterRobot
 * MasterEquipment
-* WeaponsData (weapons simulator)
 * MasterPilot
 * MasterAbility
-* AbilityData
 * MasterTEquipment
+
+### Porting Projects
+ (These weapon simulators need to be ported to VBA for convenience. )
+* WeaponsData
+* AbilityData
 * TWeaponsData
 
 ### Pending Projects
