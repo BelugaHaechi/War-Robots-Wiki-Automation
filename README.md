@@ -1,6 +1,6 @@
 # War-Robots-Wiki-Automation
 
-'''NOTE: This project has been transferred to VBA code within the Excel datasheet. This repository is for legacy reasons and will not be further updated, but the project will continue! Thank you for your interest. ''' 
+__NOTE: This project has been transferred to VBA code within the Excel datasheet. This repository is for legacy reasons and will not be further updated, but the project will continue! Thank you for your interest. __
 
 Automation project for datatables on warrobots.fandom.com. Integrates Excel data into parseable wikitext and HTML. 
 
