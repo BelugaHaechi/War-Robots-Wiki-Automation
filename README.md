@@ -1,5 +1,8 @@
 # War-Robots-Wiki-Automation
-Automation project for datatables on warrobots.fandom.com. Integrates excel data into parseable wikitext and HTML. 
+
+'''NOTE: This project has been transferred to VBA code within the Excel datasheet. This repository is for legacy reasons and will not be further updated, but the project will continue! Thank you for your interest. ''' 
+
+Automation project for datatables on warrobots.fandom.com. Integrates Excel data into parseable wikitext and HTML. 
 
 Mainly uses excel read&write package `openpyxl`, and the handy built-in `math` package. The weapons simulator includes complex logic calculations, beware :)
 
